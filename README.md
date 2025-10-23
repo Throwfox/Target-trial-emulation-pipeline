@@ -448,12 +448,15 @@ CSV files with standard OMOP CDM column names.
 If you use this pipeline in your research, please cite:
 
 ```bibtex
-@software{omop_glp1_pipeline,
-  author = {Dai, Hao},
-  title = {OMOP GLP-1 Propensity Score Matching and Analysis Pipeline},
-  year = {2025},
-  organization = {Indiana University School of Medicine},
-  url = {https://github.com/throwfox/Target-trial-emulation-pipline}
+@article{dai2025glp,
+  title={GLP-1 receptor agonists and cancer risk in adults with obesity},
+  author={Dai, Hao and Li, Yongqiu and Lee, Yao An and Lu, Ying and George, Thomas J and Donahoo, William T and Lee, Kelvin P and Nakshatri, Harikrishna and Allen, John and Guo, Yi and others},
+  journal={JAMA oncology},
+  volume={11},
+  number={10},
+  pages={1186--1193},
+  year={2025},
+  publisher={American Medical Association}
 }
 ```
 
@@ -476,21 +479,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Yao An Lee**  
-Email: yaoanlee@ufl.edu  
-Department of Pharmaceutical Outcomes & Policy  
-University of Florida
-
----
-
-## 🙏 Acknowledgments
-
-This pipeline was developed at the University of Florida Department of Pharmaceutical Outcomes & Policy, contributing to advancements in data analytics and biomedical informatics.
-
-Special thanks to:
-- OneFL+ Data Trust for EHR data access
-- OHDSI community for OMOP CDM standards
-- All contributors and collaborators
+**Hao Dai**  
+Email: daihao@iu.edu  
+Indiana University School of Medicine
 
 ---
 
@@ -504,7 +495,10 @@ Special thanks to:
 - Austin PC. An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies. Multivariate Behav Res. 2011;46(3):399-424.
 
 ### GLP-1 Receptor Agonists
-- Davies MJ, et al. Management of Hyperglycemia in Type 2 Diabetes, 2022. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2022;45(11):2753-2786.
+- Dai, H., Li, Y., Lee, Y. A., Lu, Y., George, T. J., Donahoo, W. T., ... & Bian, J. (2025). GLP-1 receptor agonists and cancer risk in adults with obesity. JAMA oncology, 11(10), 1186-1193.
+- Dai, H., Radwan, R. M., Scheiffele, G. D., Tang, H., Sheer, A., Lin, H. Y., ... & Guo, J. (2025). GLP‐1 Receptor Agonists and Substance Use Disorders in Older Adults With Type 2 Diabetes: A Target Trial Emulation. Obesity.
+- Lu, Y., Dai, H., Tang, H., Donahoo, W. T., George, T. J., Sun, R. C., ... & Bian, J. (2025). Association of Glucagon‐Like Peptide‐1 Receptor Agonists With Cancer Risk in Older Adults With Type 2 Diabetes. Obesity.
+- Radwan, R. M., Lu, Y., Dai, H., George, T. J., Guo, Y., Guo, J., & Bian, J. (2025). GLP-1 RA Use and Survival Among Older Adults With Cancer and Type 2 Diabetes. JAMA network open, 8(7), e2521887-e2521887.
 
 ---
 
