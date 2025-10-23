@@ -1,12 +1,12 @@
 # OMOP GLP-1 Propensity Score Matching and Analysis Pipeline
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A comprehensive, production-ready pipeline for conducting propensity score matched cohort studies of GLP-1 receptor agonists (GLP-1 RAs) using OMOP Common Data Model (CDM) formatted data.
 
-**Developed by**: Yao An Lee (yaoanlee@ufl.edu)  
-**Organization**: University of Florida Department of Pharmaceutical Outcomes & Policy
+**Developed by**: Hao Dai (daihao@iu.edu)  
+**Organization**: Indiana University School of Medicine
 
 ---
 
