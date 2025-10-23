@@ -420,29 +420,6 @@ CSV files with standard OMOP CDM column names.
 
 ---
 
-## 🔧 Troubleshooting
-
-### Common Issues
-
-1. **"Table not found" error**
-   - Ensure OMOP CSV files are in the specified `omop_data_dir`
-   - Check file names match OMOP table names (e.g., `person.csv`)
-
-2. **Memory issues**
-   - DuckDB should handle large files efficiently
-   - If issues persist, consider processing in batches
-
-3. **No GLP-1 users found**
-   - Verify GLP-1 concept IDs in `config/concept_sets/glp1/`
-   - Check study date range
-
-4. **Poor covariate balance (high SMD)**
-   - Consider adding more matching features
-   - Adjust caliper width
-   - Try different matching algorithms
-
----
-
 ## 📝 Citation
 
 If you use this pipeline in your research, please cite:
