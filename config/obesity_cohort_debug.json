@@ -1,0 +1,52 @@
+{
+    "cdm_path": "/media/volume/GLP/RDRP_6287_GLP_1",
+    "duckdb_sample_size": 500000,
+    "tables": {
+        "concept": "r6287_concept.csv",
+        "concept_ancestor": "r6287_concept_ancestor.csv",
+        "person": "r6287_person.csv",
+        "observation_period": "r6287_observation_period.csv",
+        "condition_occurrence": "r6287_condition_occurrence.csv",
+        "measurement": "r6287_measurement_half*.csv",
+        "visit_occurrence": "r6287_visit_occurrence.csv",
+        "death": "r6287_death.csv"
+    },
+    "study": {
+        "min_age": 18,
+        "start_date": "2012-01-01",
+        "end_date": "2024-01-31",
+        "obesity_min_index_date": "2014-01-01"
+    },
+    "concept_sets": {
+        "obesity_conditions": {
+            "concept_ids": [
+                433736,
+                434005,
+                1348189,
+                1102641
+            ],
+            "include_descendants": true
+        },
+        "bmi_measurements": {
+            "concept_ids": [
+                3038553
+            ],
+            "include_descendants": false
+        },
+        "weight_related_comorbidities": {
+            "concept_ids": [
+                201826,
+                320128,
+                432867,
+                442588
+            ],
+            "include_descendants": true
+        }
+    },
+    "output": {
+        "cohort_csv": "OMOP_GLP1/output/obesity_cohort.csv"
+    },
+    "debug": {
+        "max_persons": 5000
+    }
+}

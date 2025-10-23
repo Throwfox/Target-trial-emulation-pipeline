@@ -1,0 +1,18 @@
+Found 3760212 persons to analyze
+
+Concept sets saved to: output/concept_sets
+semaglutide: 169 concepts (from 1 original)
+liraglutide: 248 concepts (from 1 original)
+ dulaglutide: 173 concepts (from 1 original)
+exenatide: 401 concepts (from 1 original)
+lixisenatide: 310 concepts (from 1 original)
+albiglutide: 96 concepts (from 1 original)
+tirzepatide: 122 concepts (from 1 original)
+
+semaglutide: 50557 users (1.34%)
+iraglutide: 33445 users (0.89%)
+dulaglutide: 41483 users (1.10%)
+exenatide: 11768 users (0.31%)
+lixisenatide: 1687 users (0.04%)
+albiglutide: 1946 users (0.05%)
+tirzepatide: 9181 users (0.24%)

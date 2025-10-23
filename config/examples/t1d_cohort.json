@@ -1,0 +1,71 @@
+{
+    "study_name": "GLP1_T1D",
+    "cohort_name": "t1d_cohort",
+    "description": "Obesity patients with Type 1 Diabetes for GLP-1 analysis",
+    
+    "omop_data_dir": "/path/to/omop/data",
+    "output_dir": "./output",
+    
+    "study_start_date": "2012-01-01",
+    "study_end_date": "2024-01-31",
+    
+    "obesity_diagnosis_concepts": {
+        "concept_ids": [433736, 4058712],
+        "include_descendants": true
+    },
+    
+    "obesity_measurement_concepts": {
+        "concept_ids": [3038553],
+        "include_descendants": true
+    },
+    
+    "bmi_threshold_low": 27,
+    "bmi_threshold_high": 30,
+    
+    "min_age_at_entry": 18,
+    "min_age_at_index": 18,
+    
+    "require_baseline_encounter": true,
+    "min_followup_days": 30,
+    
+    "require_specific_condition": true,
+    "specific_condition_concepts": {
+        "name": "Type 1 Diabetes",
+        "concept_ids": [201254, 435216],
+        "include_descendants": true
+    },
+    
+    "glp1_drugs": [
+        "liraglutide",
+        "semaglutide",
+        "dulaglutide",
+        "exenatide"
+    ],
+    "glp1_concepts_dir": "./config/concept_sets/glp1",
+    
+    "concept_sets_dir": "./config/concept_sets",
+    
+    "matching_features": [
+        "age_at_obesity_entry",
+        "sex",
+        "BMI",
+        "insulin",
+        "metformin",
+        "HbA1c",
+        "eGFR"
+    ],
+    
+    "outcomes": [
+        {
+            "name": "Diabetic_Ketoacidosis",
+            "description": "Diabetic ketoacidosis events",
+            "concept_ids": [443238]
+        },
+        {
+            "name": "Severe_Hypoglycemia",
+            "description": "Severe hypoglycemia events",
+            "concept_ids": [380688]
+        }
+    ]
+}
+

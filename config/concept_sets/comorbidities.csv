@@ -1,0 +1,14 @@
+Name,concept_ids,description
+Diabetes,201826,Type 2 Diabetes Mellitus
+Hypertension,316866,Hypertension
+Hyperlipidemia,432867,Hyperlipidemia
+Depression,440383,Depressive disorder
+Coronary_artery_disease,317576,Coronary artery disease
+Heart_failure,316139,Heart failure
+Chronic_kidney_disease,46271022,Chronic kidney disease
+COPD,255573,Chronic obstructive pulmonary disease
+Asthma,317009,Asthma
+Stroke,381591,Cerebrovascular accident
+Myocardial_infarction,312327,Myocardial infarction
+Atrial_fibrillation,313217,Atrial fibrillation
+

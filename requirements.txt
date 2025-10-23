@@ -1,0 +1,51 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# OMOP data handling
+duckdb>=0.8.0
+
+# Machine learning & matching
+scikit-learn>=1.2.0
+joblib>=1.2.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Imbalanced data handling
+imbalanced-learn>=0.11.0
+
+# Causal inference & heterogeneous treatment effects
+econml>=0.14.0
+dowhy>=0.11.0
+
+# Statistical modeling
+statsmodels>=0.14.0
+
+# Survival analysis
+lifelines>=0.27.0
+
+# Model interpretability
+shap>=0.42.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Data processing optimization
+pyarrow>=13.0.0
+fastparquet>=2023.8.0
+
+# File handling
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Utilities
+tqdm>=4.64.0
+
+# Testing (optional)
+pytest>=7.2.0
+pytest-cov>=4.1.0
+

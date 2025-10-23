@@ -1,0 +1,77 @@
+{
+    "study_name": "GLP1_Obesity_General",
+    "cohort_name": "obesity_general",
+    "description": "General obesity cohort for GLP-1 analysis",
+    
+    "omop_data_dir": "/path/to/omop/data",
+    "output_dir": "./output",
+    
+    "study_start_date": "2012-01-01",
+    "study_end_date": "2024-01-31",
+    
+    "obesity_diagnosis_concepts": {
+        "concept_ids": [433736, 4058712],
+        "include_descendants": true,
+        "description": "Obesity diagnosis concepts"
+    },
+    
+    "obesity_measurement_concepts": {
+        "concept_ids": [3038553],
+        "include_descendants": true,
+        "description": "BMI measurement concepts"
+    },
+    
+    "bmi_threshold_low": 27,
+    "bmi_threshold_high": 30,
+    
+    "min_age_at_entry": 18,
+    "min_age_at_index": 18,
+    
+    "require_baseline_encounter": true,
+    "min_followup_days": 30,
+    
+    "require_specific_condition": false,
+    "specific_condition_concepts": [],
+    
+    "glp1_drugs": [
+        "liraglutide",
+        "semaglutide",
+        "dulaglutide",
+        "exenatide",
+        "tirzepatide"
+    ],
+    "glp1_concepts_dir": "./config/concept_sets/glp1",
+    
+    "concept_sets_dir": "./config/concept_sets",
+    
+    "matching_features": [
+        "age_at_obesity_entry",
+        "sex",
+        "BMI",
+        "Diabetes",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Depression",
+        "metformin",
+        "statin",
+        "HbA1c"
+    ],
+    
+    "matching_method": "nearest_neighbor",
+    "matching_ratio": "1:1",
+    "caliper_multiplier": 0.2,
+    
+    "outcomes": [
+        {
+            "name": "MACE",
+            "description": "Major adverse cardiovascular events",
+            "concept_ids": []
+        },
+        {
+            "name": "Hospitalization",
+            "description": "All-cause hospitalization",
+            "concept_ids": []
+        }
+    ]
+}
+

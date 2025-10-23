@@ -1,0 +1,41 @@
+{
+    "cdm_path": "/media/volume/GLP/RDRP_6287_GLP_1",
+    "duckdb_sample_size": 500000,
+    "input": {
+        "obesity_cohort": "output/obesity_cohort.csv"
+    },
+    "tables": {
+        "concept": "r6287_concept.csv",
+        "concept_ancestor": "r6287_concept_ancestor.csv",
+        "drug_exposure": "r6287_drug_exposure.csv",
+        "observation_period": "r6287_observation_period.csv"
+    },
+    "concept_sets": {
+        "glp1_ingredients": {
+            "concept_ids": [
+                793143, 
+                40170911, 
+                45774435, 
+                1583722, 
+                44506754, 
+                44816332, 
+                779705 
+            ],
+            "include_descendants": true
+        }
+    },
+    "study": {
+        "start_date": "2012-01-01",
+        "end_date": "2024-01-31"
+    },
+    "exposure": {
+        "min_date": "2012-01-01",
+        "max_date": "2024-01-31",
+        "min_days_from_obesity_index": 0,
+        "max_days_from_obesity_index": 730
+    },
+    "output": {
+        "user_csv": "OMOP_GLP1/output/glp1_users.csv",
+        "nonuser_csv": "OMOP_GLP1/output/glp1_nonusers.csv"
+    }
+}

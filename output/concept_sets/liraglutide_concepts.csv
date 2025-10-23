@@ -1,0 +1,249 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,VOCABULARY_ID,DOMAIN_ID,is_original_ingredient
+1718703,liraglutide 3.6 MG/ML,1860164,Clinical Drug Comp,RxNorm,Drug,0
+1718704,insulin degludec / liraglutide Injectable Product,1860165,Clinical Dose Group,RxNorm,Drug,0
+1718705,insulin degludec / liraglutide Pen Injector,1860166,Clinical Drug Form,RxNorm,Drug,0
+1718706,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector,1860167,Quant Clinical Drug,RxNorm,Drug,0
+1718708,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML [Xultophy],1860169,Branded Drug Comp,RxNorm,Drug,0
+1718709,insulin degludec / liraglutide Pen Injector [Xultophy],1860170,Branded Drug Form,RxNorm,Drug,0
+1718710,Xultophy Injectable Product,1860171,Branded Dose Group,RxNorm,Drug,0
+1718711,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],1860172,Quant Branded Drug,RxNorm,Drug,0
+1718712,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector,1860173,Clinical Drug,RxNorm,Drug,0
+1718713,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],1860174,Branded Drug,RxNorm,Drug,0
+1832313,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by Abacus Medicine,OMOP5157554,Marketed Product,RxNorm Extension,Drug,0
+1972984,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 3 by Eurim-Pharm,OMOP5165545,Marketed Product,RxNorm Extension,Drug,0
+1972985,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by Eurim-Pharm,OMOP5165546,Marketed Product,RxNorm Extension,Drug,0
+1972986,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by Kohlpharma,OMOP5165547,Marketed Product,RxNorm Extension,Drug,0
+2906405,3 ML liraglutide 6 MG/ML Cartridge [Victoza],OMOP5123185,Quant Branded Drug,RxNorm Extension,Drug,0
+2906406,3 ML liraglutide 6 MG/ML Cartridge Box of 3,OMOP5123186,Quant Clinical Box,RxNorm Extension,Drug,0
+2906407,3 ML liraglutide 6 MG/ML Cartridge Box of 2,OMOP5123187,Quant Clinical Box,RxNorm Extension,Drug,0
+2906408,3 ML liraglutide 6 MG/ML Cartridge,OMOP5123188,Quant Clinical Drug,RxNorm Extension,Drug,0
+2906409,3 ML liraglutide 6 MG/ML Pen Injector [Saxenda] Box of 5,OMOP5123189,Quant Branded Box,RxNorm Extension,Drug,0
+2906410,3 ML liraglutide 6 MG/ML Pen Injector [Saxenda] Box of 3,OMOP5123190,Quant Branded Box,RxNorm Extension,Drug,0
+2906411,3 ML liraglutide 6 MG/ML Pen Injector [Victoza] Box of 3,OMOP5123191,Quant Branded Box,RxNorm Extension,Drug,0
+2906412,3 ML liraglutide 6 MG/ML Pen Injector [Victoza] Box of 2,OMOP5123192,Quant Branded Box,RxNorm Extension,Drug,0
+2906441,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,OMOP5123220,Quant Branded Box,RxNorm Extension,Drug,0
+2906442,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,OMOP5123221,Quant Branded Box,RxNorm Extension,Drug,0
+2906443,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector Box of 5,OMOP5123222,Quant Clinical Box,RxNorm Extension,Drug,0
+2906444,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector Box of 3,OMOP5123223,Quant Clinical Box,RxNorm Extension,Drug,0
+2909333,liraglutide 6 MG/ML Cartridge [Victoza],OMOP5126096,Branded Drug,RxNorm Extension,Drug,0
+2909334,liraglutide 6 MG/ML Cartridge Box of 3,OMOP5126097,Clinical Drug Box,RxNorm Extension,Drug,0
+2909335,liraglutide 6 MG/ML Cartridge Box of 2,OMOP5126098,Clinical Drug Box,RxNorm Extension,Drug,0
+2909336,liraglutide 6 MG/ML Cartridge,OMOP5126099,Clinical Drug,RxNorm Extension,Drug,0
+2909337,liraglutide 6 MG/ML Pen Injector [Saxenda] Box of 5,OMOP5126100,Branded Drug Box,RxNorm Extension,Drug,0
+2909338,liraglutide 6 MG/ML Pen Injector [Saxenda] Box of 3,OMOP5126101,Branded Drug Box,RxNorm Extension,Drug,0
+2909339,liraglutide 6 MG/ML Pen Injector [Victoza] Box of 3,OMOP5126102,Branded Drug Box,RxNorm Extension,Drug,0
+2909340,liraglutide 6 MG/ML Pen Injector [Victoza] Box of 2,OMOP5126103,Branded Drug Box,RxNorm Extension,Drug,0
+2909341,liraglutide Cartridge [Victoza],OMOP5126104,Branded Drug Form,RxNorm Extension,Drug,0
+2909342,liraglutide Cartridge,OMOP5126105,Clinical Drug Form,RxNorm Extension,Drug,0
+2911250,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,OMOP5128000,Branded Drug Box,RxNorm Extension,Drug,0
+2911251,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,OMOP5128001,Branded Drug Box,RxNorm Extension,Drug,0
+2911252,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector Box of 5,OMOP5128002,Clinical Drug Box,RxNorm Extension,Drug,0
+2911253,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector Box of 3,OMOP5128003,Clinical Drug Box,RxNorm Extension,Drug,0
+21028842,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 2 by DE,OMOP305814,Marketed Product,RxNorm Extension,Drug,0
+21028843,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] by Waymade,OMOP305821,Marketed Product,RxNorm Extension,Drug,0
+21036594,liraglutide 6 MG/ML Prefilled Syringe Box of 2,OMOP266109,Clinical Drug Box,RxNorm Extension,Drug,0
+21036596,insulin degludec / liraglutide Prefilled Syringe,OMOP266115,Clinical Drug Form,RxNorm Extension,Drug,0
+21038665,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3 by Novo Nordisk,OMOP305835,Marketed Product,RxNorm Extension,Drug,0
+21046456,liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 3,OMOP266113,Branded Drug Box,RxNorm Extension,Drug,0
+21046457,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],OMOP266121,Branded Drug,RxNorm Extension,Drug,0
+21048468,3 ML liraglutide 6 MG/ML Prefilled Syringe,OMOP305806,Quant Clinical Drug,RxNorm Extension,Drug,0
+21048469,3 ML liraglutide 6 MG/ML Prefilled Syringe by Niche,OMOP305810,Marketed Product,RxNorm Extension,Drug,0
+21048470,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] by Novo Nordisk,OMOP305820,Marketed Product,RxNorm Extension,Drug,0
+21048471,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe Box of 3,OMOP305830,Quant Clinical Box,RxNorm Extension,Drug,0
+21056224,liraglutide 6 MG/ML Prefilled Syringe Box of 3,OMOP266110,Clinical Drug Box,RxNorm Extension,Drug,0
+21068155,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 2,OMOP305811,Quant Clinical Box,RxNorm Extension,Drug,0
+21068156,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe,OMOP305829,Quant Clinical Drug,RxNorm Extension,Drug,0
+21068157,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5 by Novo Nordisk,OMOP305837,Marketed Product,RxNorm Extension,Drug,0
+21075991,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe Box of 3,OMOP266119,Clinical Drug Box,RxNorm Extension,Drug,0
+21077979,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 3 by Novo Nordisk,OMOP305827,Marketed Product,RxNorm Extension,Drug,0
+21077980,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,OMOP305836,Quant Branded Box,RxNorm Extension,Drug,0
+21085714,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,OMOP266124,Branded Drug Box,RxNorm Extension,Drug,0
+21087724,3 ML liraglutide 6 MG/ML Prefilled Syringe by J M McGill,OMOP305807,Marketed Product,RxNorm Extension,Drug,0
+21087725,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 3 by DE,OMOP305818,Marketed Product,RxNorm Extension,Drug,0
+21087726,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 2 by Waymade,OMOP305824,Marketed Product,RxNorm Extension,Drug,0
+21087727,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 3,OMOP305825,Quant Branded Box,RxNorm Extension,Drug,0
+21087728,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] by Novo Nordisk,OMOP305833,Marketed Product,RxNorm Extension,Drug,0
+21097518,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 2,OMOP305822,Quant Branded Box,RxNorm Extension,Drug,0
+21097519,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 3 by Waymade,OMOP305828,Marketed Product,RxNorm Extension,Drug,0
+21105334,liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 2,OMOP266111,Branded Drug Box,RxNorm Extension,Drug,0
+21105336,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,OMOP266122,Branded Drug Box,RxNorm Extension,Drug,0
+21107378,3 ML liraglutide 6 MG/ML Prefilled Syringe by Colorama,OMOP305808,Marketed Product,RxNorm Extension,Drug,0
+21107379,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza],OMOP305819,Quant Branded Drug,RxNorm Extension,Drug,0
+21107380,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],OMOP305832,Quant Branded Drug,RxNorm Extension,Drug,0
+21117127,3 ML liraglutide 6 MG/ML Prefilled Syringe by DE,OMOP305809,Marketed Product,RxNorm Extension,Drug,0
+21134680,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe Box of 5,OMOP266120,Clinical Drug Box,RxNorm Extension,Drug,0
+21136743,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 2 by Niche,OMOP305815,Marketed Product,RxNorm Extension,Drug,0
+21136744,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,OMOP305834,Quant Branded Box,RxNorm Extension,Drug,0
+21144564,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe,OMOP266118,Clinical Drug,RxNorm Extension,Drug,0
+21146597,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 3,OMOP305816,Quant Clinical Box,RxNorm Extension,Drug,0
+21156568,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 2 by J M McGill,OMOP305812,Marketed Product,RxNorm Extension,Drug,0
+21156569,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 3 by Colorama,OMOP305817,Marketed Product,RxNorm Extension,Drug,0
+21166315,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 2 by Novo Nordisk,OMOP305823,Marketed Product,RxNorm Extension,Drug,0
+21174087,insulin degludec / liraglutide Prefilled Syringe [Xultophy],OMOP266116,Branded Drug Form,RxNorm Extension,Drug,0
+21176095,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 2 by Colorama,OMOP305813,Marketed Product,RxNorm Extension,Drug,0
+21176096,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe Box of 5,OMOP305831,Quant Clinical Box,RxNorm Extension,Drug,0
+35408233,liraglutide 6 MG/ML Prefilled Syringe,OMOP1141818,Clinical Drug,RxNorm Extension,Drug,0
+35411551,liraglutide 6 MG/ML Prefilled Syringe [Victoza],OMOP1145136,Branded Drug,RxNorm Extension,Drug,0
+35766701,liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3,OMOP2768162,Branded Drug Box,RxNorm Extension,Drug,0
+35770692,liraglutide 6 MG/ML Injectable Solution Box of 3,OMOP2772153,Clinical Drug Box,RxNorm Extension,Drug,0
+35779304,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3,OMOP2780765,Quant Branded Box,RxNorm Extension,Drug,0
+35779328,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] by Novo Nordisk,OMOP2780789,Marketed Product,RxNorm Extension,Drug,0
+35779329,3 ML liraglutide 6 MG/ML Injectable Solution Box of 3 by DE,OMOP2780790,Marketed Product,RxNorm Extension,Drug,0
+35779330,3 ML liraglutide 6 MG/ML Injectable Solution Box of 2 by Niche,OMOP2780791,Marketed Product,RxNorm Extension,Drug,0
+35779390,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3 by Novo Nordisk,OMOP2780851,Marketed Product,RxNorm Extension,Drug,0
+35779391,3 ML liraglutide 6 MG/ML Injectable Solution by Niche,OMOP2780852,Marketed Product,RxNorm Extension,Drug,0
+35779569,3 ML liraglutide 6 MG/ML Injectable Solution Box of 2 by Colorama,OMOP2781030,Marketed Product,RxNorm Extension,Drug,0
+35779570,3 ML liraglutide 6 MG/ML Injectable Solution by Colorama,OMOP2781031,Marketed Product,RxNorm Extension,Drug,0
+35779601,3 ML liraglutide 6 MG/ML Injectable Solution Box of 3,OMOP2781062,Quant Clinical Box,RxNorm Extension,Drug,0
+35779633,3 ML liraglutide 6 MG/ML Injectable Solution Box of 3 by Colorama,OMOP2781094,Marketed Product,RxNorm Extension,Drug,0
+35779634,3 ML liraglutide 6 MG/ML Injectable Solution by DE,OMOP2781095,Marketed Product,RxNorm Extension,Drug,0
+35779706,3 ML liraglutide 6 MG/ML Injectable Solution Box of 2 by J M McGill,OMOP2781167,Marketed Product,RxNorm Extension,Drug,0
+35779765,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3 by Waymade,OMOP2781226,Marketed Product,RxNorm Extension,Drug,0
+35779766,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2 by Waymade,OMOP2781227,Marketed Product,RxNorm Extension,Drug,0
+35779767,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] by Waymade,OMOP2781228,Marketed Product,RxNorm Extension,Drug,0
+35779768,3 ML liraglutide 6 MG/ML Injectable Solution Box of 2 by DE,OMOP2781229,Marketed Product,RxNorm Extension,Drug,0
+35779769,3 ML liraglutide 6 MG/ML Injectable Solution by J M McGill,OMOP2781230,Marketed Product,RxNorm Extension,Drug,0
+36037417,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by Paranova Pack,OMOP5047414,Marketed Product,RxNorm Extension,Drug,0
+36055834,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by CST,OMOP4981222,Marketed Product,RxNorm Extension,Drug,0
+36055835,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 3 by Novo Nordisk,OMOP4981223,Marketed Product,RxNorm Extension,Drug,0
+36055836,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] by CST,OMOP4981224,Marketed Product,RxNorm Extension,Drug,0
+36055837,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3 by Mawdsley-Brooks,OMOP4981225,Marketed Product,RxNorm Extension,Drug,0
+36055838,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 3 by Originalis B.V.,OMOP4981226,Marketed Product,RxNorm Extension,Drug,0
+36055839,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2 by Mawdsley-Brooks,OMOP4981227,Marketed Product,RxNorm Extension,Drug,0
+36055840,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2 by Pilsco,OMOP4981228,Marketed Product,RxNorm Extension,Drug,0
+36055841,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] by Mawdsley-Brooks,OMOP4981229,Marketed Product,RxNorm Extension,Drug,0
+36055842,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] by Originalis B.V.,OMOP4981230,Marketed Product,RxNorm Extension,Drug,0
+36055843,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] by Pilsco,OMOP4981231,Marketed Product,RxNorm Extension,Drug,0
+36220119,liraglutide Injectable Product,1163230,Clinical Dose Group,RxNorm,Drug,0
+36241903,Victoza Injectable Product,1186578,Branded Dose Group,RxNorm,Drug,0
+36248956,Saxenda Injectable Product,1598267,Branded Dose Group,RxNorm,Drug,0
+36403526,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution Box of 3,OMOP3095568,Clinical Drug Box,RxNorm Extension,Drug,0
+36404173,insulin degludec / liraglutide Injectable Solution,OMOP3096215,Clinical Drug Form,RxNorm Extension,Drug,0
+36404310,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution,OMOP3096352,Clinical Drug,RxNorm Extension,Drug,0
+36405240,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,OMOP3097282,Branded Drug Box,RxNorm Extension,Drug,0
+36406016,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],OMOP3098058,Branded Drug,RxNorm Extension,Drug,0
+36408050,insulin degludec / liraglutide Injectable Solution [Xultophy],OMOP3100092,Branded Drug Form,RxNorm Extension,Drug,0
+36408288,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,OMOP3100330,Branded Drug Box,RxNorm Extension,Drug,0
+36408883,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution Box of 5,OMOP3100925,Clinical Drug Box,RxNorm Extension,Drug,0
+36410254,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution Box of 5,OMOP3102296,Quant Clinical Box,RxNorm Extension,Drug,0
+36410273,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution Box of 3,OMOP3102315,Quant Clinical Box,RxNorm Extension,Drug,0
+36410280,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3 by Novo Nordisk,OMOP3102322,Marketed Product,RxNorm Extension,Drug,0
+36410288,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5 by Novo Nordisk,OMOP3102330,Marketed Product,RxNorm Extension,Drug,0
+36410289,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] by Novo Nordisk,OMOP3102331,Marketed Product,RxNorm Extension,Drug,0
+36410293,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution,OMOP3102335,Quant Clinical Drug,RxNorm Extension,Drug,0
+36410295,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,OMOP3102337,Quant Branded Box,RxNorm Extension,Drug,0
+36410309,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,OMOP3102351,Quant Branded Box,RxNorm Extension,Drug,0
+36410310,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],OMOP3102352,Quant Branded Drug,RxNorm Extension,Drug,0
+36881279,liraglutide 6 MG/ML Auto-Injector [Saxenda],OMOP1004000,Branded Drug,RxNorm Extension,Drug,0
+36889744,liraglutide 6 MG/ML Auto-Injector,OMOP993859,Clinical Drug,RxNorm Extension,Drug,0
+36892499,liraglutide Auto-Injector,OMOP1000354,Clinical Drug Form,RxNorm Extension,Drug,0
+36893532,liraglutide Auto-Injector [Saxenda],OMOP1001707,Branded Drug Form,RxNorm Extension,Drug,0
+36895267,3 ML liraglutide 6 MG/ML Auto-Injector,OMOP995549,Quant Clinical Drug,RxNorm Extension,Drug,0
+40169222,3 ML liraglutide 6 MG/ML Pen Injector,897122,Quant Clinical Drug,RxNorm,Drug,0
+40169223,3 ML liraglutide 6 MG/ML Pen Injector [Victoza],897126,Quant Branded Drug,RxNorm,Drug,0
+40170911,liraglutide,475968,Ingredient,RxNorm,Drug,1
+40170912,liraglutide 6 MG/ML,897120,Clinical Drug Comp,RxNorm,Drug,0
+40170913,liraglutide 6 MG/ML [Victoza],897124,Branded Drug Comp,RxNorm,Drug,0
+40716441,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] by Novo Nordisk,OMOP4740673,Marketed Product,RxNorm Extension,Drug,0
+40835451,liraglutide 6 MG/ML Injectable Solution Box of 5,OMOP2033413,Clinical Drug Box,RxNorm Extension,Drug,0
+40844025,liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 5,OMOP2041987,Branded Drug Box,RxNorm Extension,Drug,0
+40960105,liraglutide 6 MG/ML Injectable Solution Box of 2,OMOP2158067,Clinical Drug Box,RxNorm Extension,Drug,0
+40999885,liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2,OMOP2197847,Branded Drug Box,RxNorm Extension,Drug,0
+41022266,liraglutide 6 MG/ML Injectable Solution Box of 10,OMOP2220228,Clinical Drug Box,RxNorm Extension,Drug,0
+41062044,liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 10,OMOP2260006,Branded Drug Box,RxNorm Extension,Drug,0
+41062045,liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5,OMOP2260007,Branded Drug Box,RxNorm Extension,Drug,0
+41116327,liraglutide 6 MG/ML Prefilled Syringe Box of 10,OMOP2314289,Clinical Drug Box,RxNorm Extension,Drug,0
+41187498,liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 5,OMOP2385460,Branded Drug Box,RxNorm Extension,Drug,0
+41218716,liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 10,OMOP2416678,Branded Drug Box,RxNorm Extension,Drug,0
+41218717,liraglutide 6 MG/ML Prefilled Syringe [Saxenda],OMOP2416679,Branded Drug,RxNorm Extension,Drug,0
+41249736,liraglutide 6 MG/ML Prefilled Syringe [Saxenda] Box of 5,OMOP2447698,Branded Drug Box,RxNorm Extension,Drug,0
+41299874,liraglutide Prefilled Syringe [Saxenda],OMOP2497836,Branded Drug Form,RxNorm Extension,Drug,0
+41303252,liraglutide 6 MG/ML Prefilled Syringe Box of 5,OMOP2501214,Clinical Drug Box,RxNorm Extension,Drug,0
+41346941,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 10 by Novo Nordisk,OMOP2544903,Marketed Product,RxNorm Extension,Drug,0
+41347068,3 ML liraglutide 6 MG/ML Prefilled Syringe [Saxenda] Box of 5,OMOP2545030,Quant Branded Box,RxNorm Extension,Drug,0
+41347182,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 10 by Cc,OMOP2545144,Marketed Product,RxNorm Extension,Drug,0
+41347183,3 ML liraglutide 6 MG/ML Prefilled Syringe [Saxenda] Box of 5 by Novo Nordisk,OMOP2545145,Marketed Product,RxNorm Extension,Drug,0
+41347268,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 5,OMOP2545230,Quant Clinical Box,RxNorm Extension,Drug,0
+41347313,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 5,OMOP2545275,Quant Branded Box,RxNorm Extension,Drug,0
+41347407,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2 by Cc,OMOP2545369,Marketed Product,RxNorm Extension,Drug,0
+41347484,3 ML liraglutide 6 MG/ML Injectable Solution Box of 2,OMOP2545446,Quant Clinical Box,RxNorm Extension,Drug,0
+41347536,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5,OMOP2545498,Quant Branded Box,RxNorm Extension,Drug,0
+41347630,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 5 by Novo Nordisk,OMOP2545592,Marketed Product,RxNorm Extension,Drug,0
+41347631,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2 by Novo Nordisk,OMOP2545593,Marketed Product,RxNorm Extension,Drug,0
+41347890,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 5 by Novo Nordisk,OMOP2545852,Marketed Product,RxNorm Extension,Drug,0
+41348246,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 5,OMOP2546208,Quant Branded Box,RxNorm Extension,Drug,0
+41348574,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 5 by Cc,OMOP2546536,Marketed Product,RxNorm Extension,Drug,0
+41348575,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 5 by Novo Nordisk,OMOP2546537,Marketed Product,RxNorm Extension,Drug,0
+41348899,3 ML liraglutide 6 MG/ML Injectable Solution Box of 10,OMOP2546861,Quant Clinical Box,RxNorm Extension,Drug,0
+41348943,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda],OMOP2546905,Quant Branded Drug,RxNorm Extension,Drug,0
+41349295,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 5 by Cc,OMOP2547257,Marketed Product,RxNorm Extension,Drug,0
+41349451,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 10,OMOP2547413,Quant Branded Box,RxNorm Extension,Drug,0
+41349692,3 ML liraglutide 6 MG/ML Prefilled Syringe [Victoza] Box of 10,OMOP2547654,Quant Branded Box,RxNorm Extension,Drug,0
+41349876,3 ML liraglutide 6 MG/ML Injectable Solution,OMOP2547838,Quant Clinical Drug,RxNorm Extension,Drug,0
+41349936,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza],OMOP2547898,Quant Branded Drug,RxNorm Extension,Drug,0
+41349937,3 ML liraglutide 6 MG/ML Prefilled Syringe [Saxenda],OMOP2547899,Quant Branded Drug,RxNorm Extension,Drug,0
+41350125,3 ML liraglutide 6 MG/ML Injectable Solution Box of 5,OMOP2548087,Quant Clinical Box,RxNorm Extension,Drug,0
+41350361,3 ML liraglutide 6 MG/ML Prefilled Syringe Box of 10,OMOP2548323,Quant Clinical Box,RxNorm Extension,Drug,0
+41350409,3 ML liraglutide 6 MG/ML Injectable Solution [Victoza] Box of 2,OMOP2548371,Quant Branded Box,RxNorm Extension,Drug,0
+42478932,liraglutide Prefilled Syringe,OMOP417351,Clinical Drug Form,RxNorm Extension,Drug,0
+42481910,liraglutide Prefilled Syringe [Victoza],OMOP417352,Branded Drug Form,RxNorm Extension,Drug,0
+42613205,liraglutide Cartridge,OMOP5160382,Clinical Drug Form,RxNorm Extension,Drug,0
+42613206,liraglutide Cartridge [Victoza],OMOP5160383,Branded Drug Form,RxNorm Extension,Drug,0
+42902992,liraglutide 6 MG/ML Pen Injector,1360105,Clinical Drug,RxNorm,Drug,0
+42903382,liraglutide 6 MG/ML Pen Injector [Victoza],1360495,Branded Drug,RxNorm,Drug,0
+43258662,liraglutide Injection [Saxenda],OMOP558930,Branded Drug Form,RxNorm Extension,Drug,0
+43258663,liraglutide 6 MG/ML Injection [Victoza],OMOP558941,Branded Drug,RxNorm Extension,Drug,0
+43258664,liraglutide 6 MG/ML Injection [Victoza] Box of 2,OMOP558942,Branded Drug Box,RxNorm Extension,Drug,0
+43258841,3 ML liraglutide 6 MG/ML Injection Box of 5,OMOP562105,Quant Clinical Box,RxNorm Extension,Drug,0
+43258842,3 ML liraglutide 6 MG/ML Injection [Saxenda],OMOP562106,Quant Branded Drug,RxNorm Extension,Drug,0
+43264104,liraglutide 6 MG/ML Injection,OMOP558933,Clinical Drug,RxNorm Extension,Drug,0
+43264281,3 ML liraglutide 6 MG/ML Injection,OMOP562100,Quant Clinical Drug,RxNorm Extension,Drug,0
+43269560,liraglutide 6 MG/ML Injection [Saxenda],OMOP558937,Branded Drug,RxNorm Extension,Drug,0
+43269561,liraglutide 6 MG/ML Injection [Saxenda] Box of 5,OMOP558940,Branded Drug Box,RxNorm Extension,Drug,0
+43269768,3 ML liraglutide 6 MG/ML Injection [Victoza] Box of 2,OMOP562110,Quant Branded Box,RxNorm Extension,Drug,0
+43269769,3 ML liraglutide 6 MG/ML Auto-Injector Box of 5,OMOP562113,Quant Clinical Box,RxNorm Extension,Drug,0
+43280431,liraglutide Injection,OMOP558929,Clinical Drug Form,RxNorm Extension,Drug,0
+43280432,liraglutide 6 MG/ML Injection Box of 2,OMOP558934,Clinical Drug Box,RxNorm Extension,Drug,0
+43280433,liraglutide 6 MG/ML Injection Box of 3,OMOP558935,Clinical Drug Box,RxNorm Extension,Drug,0
+43280434,liraglutide 6 MG/ML Injection Box of 5,OMOP558936,Clinical Drug Box,RxNorm Extension,Drug,0
+43280633,3 ML liraglutide 6 MG/ML Injection Box of 3,OMOP562104,Quant Clinical Box,RxNorm Extension,Drug,0
+43280634,3 ML liraglutide 6 MG/ML Injection [Victoza],OMOP562109,Quant Branded Drug,RxNorm Extension,Drug,0
+43285914,liraglutide 6 MG/ML Injection [Victoza] Box of 3,OMOP558943,Branded Drug Box,RxNorm Extension,Drug,0
+43286096,3 ML liraglutide 6 MG/ML Injection [Saxenda] Box of 5,OMOP562108,Quant Branded Box,RxNorm Extension,Drug,0
+43286097,3 ML liraglutide 6 MG/ML Injection [Victoza] Box of 3,OMOP562111,Quant Branded Box,RxNorm Extension,Drug,0
+43291280,liraglutide Injection [Victoza],OMOP558931,Branded Drug Form,RxNorm Extension,Drug,0
+43291466,3 ML liraglutide 6 MG/ML Auto-Injector [Saxenda],OMOP562114,Quant Branded Drug,RxNorm Extension,Drug,0
+43296674,liraglutide 6 MG/ML Injection [Saxenda] Box of 3,OMOP558938,Branded Drug Box,RxNorm Extension,Drug,0
+43296675,liraglutide 6 MG/ML Auto-Injector Box of 5,OMOP558944,Clinical Drug Box,RxNorm Extension,Drug,0
+43296870,3 ML liraglutide 6 MG/ML Injection Box of 2,OMOP562103,Quant Clinical Box,RxNorm Extension,Drug,0
+43296871,3 ML liraglutide 6 MG/ML Injection [Saxenda] Box of 3,OMOP562107,Quant Branded Box,RxNorm Extension,Drug,0
+43514781,liraglutide 6 MG/ML Auto-Injector [Victoza],OMOP2801896,Branded Drug,RxNorm Extension,Drug,0
+43515106,liraglutide 6 MG/ML Pen Injector Box of 3,OMOP2802221,Clinical Drug Box,RxNorm Extension,Drug,0
+43515107,liraglutide 6 MG/ML Auto-Injector Box of 3,OMOP2802222,Clinical Drug Box,RxNorm Extension,Drug,0
+43515506,liraglutide 6 MG/ML Auto-Injector Box of 2,OMOP2802621,Clinical Drug Box,RxNorm Extension,Drug,0
+43515927,liraglutide 6 MG/ML Pen Injector Box of 2,OMOP2803042,Clinical Drug Box,RxNorm Extension,Drug,0
+43516277,liraglutide Auto-Injector [Victoza],OMOP2803392,Branded Drug Form,RxNorm Extension,Drug,0
+43516319,liraglutide 6 MG/ML Pen Injector Box of 5,OMOP2803434,Clinical Drug Box,RxNorm Extension,Drug,0
+43516388,liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 3,OMOP2803503,Branded Drug Box,RxNorm Extension,Drug,0
+43518166,3 ML liraglutide 6 MG/ML Pen Injector Box of 5,OMOP2805281,Quant Clinical Box,RxNorm Extension,Drug,0
+43518175,3 ML liraglutide 6 MG/ML Auto-Injector Box of 3,OMOP2805290,Quant Clinical Box,RxNorm Extension,Drug,0
+43518181,3 ML liraglutide 6 MG/ML Auto-Injector [Victoza],OMOP2805296,Quant Branded Drug,RxNorm Extension,Drug,0
+43518182,3 ML liraglutide 6 MG/ML Injectable Solution [Saxenda] Box of 3,OMOP2805297,Quant Branded Box,RxNorm Extension,Drug,0
+43518191,3 ML liraglutide 6 MG/ML Pen Injector Box of 3,OMOP2805306,Quant Clinical Box,RxNorm Extension,Drug,0
+43518207,3 ML liraglutide 6 MG/ML Pen Injector Box of 2,OMOP2805322,Quant Clinical Box,RxNorm Extension,Drug,0
+43518250,3 ML liraglutide 6 MG/ML Auto-Injector Box of 2,OMOP2805365,Quant Clinical Box,RxNorm Extension,Drug,0
+44044006,liraglutide Injectable Solution [Saxenda],OMOP1038637,Branded Drug Form,RxNorm Extension,Drug,0
+44073200,liraglutide 6 MG/ML Injectable Solution [Saxenda],OMOP1067831,Branded Drug,RxNorm Extension,Drug,0
+44075912,liraglutide 6 MG/ML Injectable Solution [Saxenda] by Novo Nordisk,OMOP1070543,Marketed Product,RxNorm Extension,Drug,0
+44086104,liraglutide 6 MG/ML Injectable Solution [Victoza],OMOP1080735,Branded Drug,RxNorm Extension,Drug,0
+44094514,liraglutide Injectable Solution,OMOP1089145,Clinical Drug Form,RxNorm Extension,Drug,0
+44101797,liraglutide 6 MG/ML Injectable Solution [Victoza] by Novo Nordisk,OMOP1096428,Marketed Product,RxNorm Extension,Drug,0
+44121622,liraglutide Injectable Solution [Victoza],OMOP1116253,Branded Drug Form,RxNorm Extension,Drug,0
+44123182,liraglutide 6 MG/ML Injectable Solution,OMOP1117813,Clinical Drug,RxNorm Extension,Drug,0
+44191345,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe Box of 5 by Novo Nordisk,OMOP3068068,Marketed Product,RxNorm Extension,Drug,0
+45892684,liraglutide 6 MG/ML [Saxenda],1598265,Branded Drug Comp,RxNorm,Drug,0
+45892686,3 ML liraglutide 6 MG/ML Pen Injector [Saxenda],1598268,Quant Branded Drug,RxNorm,Drug,0
+45892687,liraglutide 6 MG/ML Pen Injector [Saxenda],1598269,Branded Drug,RxNorm,Drug,0
+46234110,liraglutide Pen Injector,1653594,Clinical Drug Form,RxNorm,Drug,0
+46234111,liraglutide Pen Injector [Victoza],1653597,Branded Drug Form,RxNorm,Drug,0
+46234112,liraglutide Pen Injector [Saxenda],1653600,Branded Drug Form,RxNorm,Drug,0

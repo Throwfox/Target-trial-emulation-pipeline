@@ -1,0 +1,13 @@
+Name,concept_ids,description
+metformin,1503297,Metformin
+sulfonylurea,1502905,Sulfonylurea class
+DPP4_inhibitor,40239216,DPP-4 inhibitor class
+SGLT2_inhibitor,40164647,SGLT2 inhibitor class
+insulin,1513876,Insulin
+statin,1539403,Statin class
+ACE_inhibitor,1308216,ACE inhibitor class
+ARB,1310756,ARB class
+beta_blocker,1322081,Beta blocker class
+diuretic,974166,Diuretic class
+aspirin,1112807,Aspirin
+
