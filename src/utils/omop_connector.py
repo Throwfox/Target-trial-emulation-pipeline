@@ -54,11 +54,47 @@ class OMOPConnector:
     
     def _discover_tables(self):
         """Discover available OMOP tables in the data directory"""
+        # Get list of all csv files to search through
+        try:
+            files = [f.name for f in self.data_dir.glob("*.csv")]
+        except Exception as e:
+            logger.error(f"Error listing files in {self.data_dir}: {e}")
+            return
+
         for table in self.omop_tables:
-            csv_path = self.data_dir / f"{table}.csv"
-            if csv_path.exists():
-                self.table_paths[table] = str(csv_path)
-                logger.debug(f"Found table: {table}")
+            # 1. Exact match
+            if f"{table}.csv" in files:
+                self.table_paths[table] = str(self.data_dir / f"{table}.csv")
+                logger.debug(f"Found table: {table} (exact)")
+                continue
+                
+            # 2. Prefix match (e.g. r6287_person.csv)
+            # Find files that end with _{table}.csv
+            matches = [f for f in files if f.endswith(f"_{table}.csv")]
+            if matches:
+                # Take the first one (assume no ambiguity for now)
+                self.table_paths[table] = str(self.data_dir / matches[0])
+                logger.debug(f"Found table: {table} (prefix match: {matches[0]})")
+                continue
+                
+            # 3. Special cases
+            if table == 'vocabulary':
+                # Look for *vocab.csv
+                vocab_matches = [f for f in files if f.endswith("_vocab.csv") or f == "vocab.csv"]
+                if vocab_matches:
+                    self.table_paths[table] = str(self.data_dir / vocab_matches[0])
+                    logger.debug(f"Found table: {table} (mapped from {vocab_matches[0]})")
+                    continue
+            
+            if table == 'measurement':
+                # Look for measurement files, possibly split (e.g. measurement_half1.csv)
+                meas_matches = [f for f in files if 'measurement' in f]
+                if meas_matches:
+                    # Use a glob pattern that matches these files
+                    glob_pattern = str(self.data_dir / "*measurement*.csv")
+                    self.table_paths[table] = glob_pattern
+                    logger.debug(f"Found table: {table} (glob: {glob_pattern})")
+                    continue
     
     def create_view(self, table_name: str, view_name: Optional[str] = None):
         """
@@ -91,7 +127,10 @@ class OMOPConnector:
         Returns:
             Query results as pandas DataFrame
         """
-        return self.conn.execute(sql).df()
+        df = self.conn.execute(sql).df()
+        # Normalize column names to lowercase (OMOP standard)
+        df.columns = df.columns.str.lower()
+        return df
     
     def get_persons(self, person_ids: Optional[List[int]] = None,
                    min_birth_year: Optional[int] = None,
