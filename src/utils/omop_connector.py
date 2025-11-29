@@ -112,7 +112,7 @@ class OMOPConnector:
         
         self.conn.execute(f"""
             CREATE OR REPLACE VIEW {view_name} AS
-            SELECT * FROM read_csv_auto('{csv_path}', header=true)
+            SELECT * FROM read_csv_auto('{csv_path}', header=true, ignore_errors=true)
         """)
         
         logger.debug(f"Created view: {view_name}")
