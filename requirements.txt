@@ -19,6 +19,7 @@ imbalanced-learn>=0.11.0
 # Causal inference & heterogeneous treatment effects
 econml>=0.14.0
 dowhy>=0.11.0
+causalml>=0.14.0
 
 # Statistical modeling
 statsmodels>=0.14.0
