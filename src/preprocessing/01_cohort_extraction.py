@@ -66,6 +66,10 @@ class CohortExtractor:
     
     def _load_concepts(self, concept_config: Dict) -> List[int]:
         """Load and expand concept IDs"""
+        # Handle case where config is just a list of IDs (or empty list)
+        if isinstance(concept_config, list):
+            return concept_config
+
         if 'concept_ids' in concept_config:
             concept_ids = concept_config['concept_ids']
         else:
