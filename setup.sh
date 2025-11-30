@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# OMOP GLP-1 Pipeline Setup Script
+# OMOP Cohort Pipeline Setup Script
 
 echo "========================================"
-echo "OMOP GLP-1 Pipeline Setup"
+echo "OMOP Cohort Pipeline Setup"
 echo "========================================"
 
 # Check Python version
@@ -12,10 +12,9 @@ python_version=$(python3 --version 2>&1 | awk '{print $2}')
 echo "Python version: $python_version"
 
 # Create virtual environment (optional)
-read -p "Create virtual environment? (y/n) " -n 1 -r
-echo
-if [[ $REPLY =~ ^[Yy]$ ]]
-then
+echo "Create virtual environment? (y/n) "
+read REPLY
+if [ "$REPLY" = "y" ] || [ "$REPLY" = "Y" ]; then
     echo "Creating virtual environment..."
     # Check if conda is installed
     if command -v conda &> /dev/null; then
@@ -38,13 +37,13 @@ fi
 # Install requirements
 echo "Installing Python dependencies..."
 # Only run pip if we are in an active environment or user confirms
-if [[ "$CONDA_DEFAULT_ENV" == "pipeline" ]]; then
+if [ "$CONDA_DEFAULT_ENV" = "pipeline" ]; then
     pip install --upgrade pip
     pip install -r requirements.txt
 else
-    read -p "No 'pipeline' conda environment active. Install packages anyway? (y/n) " -n 1 -r
-    echo
-    if [[ $REPLY =~ ^[Yy]$ ]]; then
+    echo "No 'pipeline' conda environment active. Install packages anyway? (y/n) "
+    read REPLY
+    if [ "$REPLY" = "y" ] || [ "$REPLY" = "Y" ]; then
         pip install --upgrade pip
         pip install -r requirements.txt
     fi
