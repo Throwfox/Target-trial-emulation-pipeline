@@ -3,7 +3,6 @@ Mean Standardized Difference (MSD) Analysis
 
 Calculate covariate balance before and after propensity score matching.
 
-Author: Yao An Lee
 """
 
 import pandas as pd
