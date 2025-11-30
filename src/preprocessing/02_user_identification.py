@@ -3,8 +3,6 @@ Step 2: GLP-1 User/Non-User Identification
 
 This module identifies GLP-1 users and potential non-users from the obesity cohort.
 
-Author: Yao An Lee
-Organization: University of Florida Department of Pharmaceutical Outcomes & Policy
 """
 
 import os
@@ -46,22 +44,55 @@ class UserIdentifier:
         """Load GLP-1 drug concept sets"""
         glp1_drugs = {}
         
-        # Load concept sets for each GLP-1 drug
-        concept_dir = Path(self.config.glp1_concepts_dir)
+        # Search locations
+        search_dirs = [
+            Path(self.config.concept_sets_dir),  # 1. General concept sets dir (config/concept_sets)
+            Path(self.config.glp1_concepts_dir), # 2. Specific GLP1 dir (usually config/concept_sets/glp1)
+        ]
         
         for drug_name in self.config.glp1_drugs:
-            concept_file = concept_dir / f"{drug_name}_concepts.json"
-            if concept_file.exists():
-                with open(concept_file, 'r') as f:
-                    data = json.load(f)
-                    concept_ids = data.get('concept_ids', [])
-                    
-                    # Expand to include descendants
-                    if data.get('include_descendants', True):
-                        concept_ids = self.omop.expand_concepts(concept_ids)
-                    
-                    glp1_drugs[drug_name] = concept_ids
-                    logger.info(f"Loaded {len(concept_ids)} concepts for {drug_name}")
+            concept_ids = []
+            found = False
+            
+            for search_dir in search_dirs:
+                if found: break
+                
+                # Try CSV
+                csv_path = search_dir / f"{drug_name}_concepts.csv"
+                if csv_path.exists():
+                    try:
+                        df = pd.read_csv(csv_path)
+                        # Handle different column naming conventions
+                        if 'CONCEPT_ID' in df.columns:
+                            concept_ids = df['CONCEPT_ID'].tolist()
+                        elif 'concept_id' in df.columns:
+                            concept_ids = df['concept_id'].tolist()
+                        
+                        if concept_ids:
+                            logger.info(f"Loaded {len(concept_ids)} concepts for {drug_name} from {csv_path}")
+                            found = True
+                            continue
+                    except Exception as e:
+                        logger.warning(f"Error reading {csv_path}: {e}")
+
+                # Try JSON
+                json_path = search_dir / f"{drug_name}_concepts.json"
+                if json_path.exists():
+                    try:
+                        with open(json_path, 'r') as f:
+                            data = json.load(f)
+                            c_ids = data.get('concept_ids', [])
+                            if data.get('include_descendants', True):
+                                c_ids = self.omop.expand_concepts(c_ids)
+                            concept_ids = c_ids
+                            logger.info(f"Loaded {len(concept_ids)} concepts for {drug_name} from {json_path}")
+                            found = True
+                    except Exception as e:
+                        logger.warning(f"Error reading {json_path}: {e}")
+            
+            glp1_drugs[drug_name] = concept_ids
+            if not found:
+                logger.warning(f"No concept file found for {drug_name}")
         
         return glp1_drugs
     
