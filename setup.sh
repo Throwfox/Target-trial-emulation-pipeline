@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # OMOP GLP-1 Pipeline Setup Script
-# Author: Yao An Lee
 
 echo "========================================"
 echo "OMOP GLP-1 Pipeline Setup"
