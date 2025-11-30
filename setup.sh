@@ -17,12 +17,14 @@ echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo "Creating virtual environment..."
-    python3 -m venv venv
-    source venv/bin/activate
+    conda create -n pipeline python=3.13 -c conda-forge 
+    conda init bash
+    source ~/.bashrc
 fi
 
 # Install requirements
 echo "Installing Python dependencies..."
+conda activate pipeline
 pip install --upgrade pip
 pip install -r requirements.txt
 
