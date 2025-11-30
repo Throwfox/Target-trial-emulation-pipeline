@@ -98,6 +98,21 @@ class PropensityMatcher:
         available_features = [f for f in feature_cols if f in combined.columns]
         logger.info(f"Using {len(available_features)} features for matching")
         
+        # Handle categorical columns
+        for col in available_features:
+            if combined[col].dtype == 'object':
+                # Try converting to numeric first
+                combined[col] = pd.to_numeric(combined[col], errors='ignore')
+                
+            # If still object/string, encode it
+            if combined[col].dtype == 'object':
+                logger.info(f"Encoding categorical column: {col}")
+                # Simple label encoding for matching purposes
+                # Convert to category codes, handling NaNs
+                combined[col] = combined[col].astype('category').cat.codes
+                # Re-introduce NaNs if they were present (cat.codes uses -1 for NaN)
+                combined.loc[combined[col] == -1, col] = np.nan
+
         # Handle missing values
         imputer = SimpleImputer(strategy='median')
         combined[available_features] = imputer.fit_transform(combined[available_features])
