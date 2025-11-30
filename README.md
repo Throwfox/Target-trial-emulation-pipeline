@@ -1,4 +1,4 @@
-# OMOP GLP-1 Propensity Score Matching and Analysis Pipeline
+# OMOP Cohort Extraction & Propensity Score Matching & Analysis Pipeline
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
