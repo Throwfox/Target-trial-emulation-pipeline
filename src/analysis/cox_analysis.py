@@ -3,7 +3,6 @@ Cox Proportional Hazards Regression Analysis
 
 Evaluate time-to-event outcomes for matched cohorts.
 
-Author: Yao An Lee
 """
 
 import pandas as pd
