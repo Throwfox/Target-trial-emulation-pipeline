@@ -17,16 +17,38 @@ echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo "Creating virtual environment..."
-    conda create -n pipeline python=3.13 -c conda-forge 
-    conda init bash
-    source ~/.bashrc
+    # Check if conda is installed
+    if command -v conda &> /dev/null; then
+        conda create -y -n pipeline python=3.11 -c conda-forge 
+        
+        # Source conda to ensure activate works in this script
+        # Try common conda init locations
+        if [ -f "$HOME/anaconda3/etc/profile.d/conda.sh" ]; then
+            source "$HOME/anaconda3/etc/profile.d/conda.sh"
+        elif [ -f "$HOME/miniconda3/etc/profile.d/conda.sh" ]; then
+            source "$HOME/miniconda3/etc/profile.d/conda.sh"
+        fi
+        
+        conda activate pipeline
+    else
+        echo "Conda not found. Skipping environment creation."
+    fi
 fi
 
 # Install requirements
 echo "Installing Python dependencies..."
-conda activate pipeline
-pip install --upgrade pip
-pip install -r requirements.txt
+# Only run pip if we are in an active environment or user confirms
+if [[ "$CONDA_DEFAULT_ENV" == "pipeline" ]]; then
+    pip install --upgrade pip
+    pip install -r requirements.txt
+else
+    read -p "No 'pipeline' conda environment active. Install packages anyway? (y/n) " -n 1 -r
+    echo
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+        pip install --upgrade pip
+        pip install -r requirements.txt
+    fi
+fi
 
 # Create output directories
 echo "Creating output directories..."
@@ -52,4 +74,3 @@ echo "3. Run pipeline: bash run_pipeline.sh config/examples/obesity_general.json
 echo ""
 echo "For more information, see README.md"
 echo ""
-
