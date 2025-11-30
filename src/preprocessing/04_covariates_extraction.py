@@ -7,7 +7,6 @@ Extract baseline covariates for propensity score matching:
 - Medications
 - Laboratory values
 
-Author: Yao An Lee
 """
 
 import os
