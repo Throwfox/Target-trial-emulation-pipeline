@@ -1,18 +1,3 @@
-"""
-Drug Identifier Script - 
-    python drug_identifier.py
-
-1. (OUTPUT_CSV):
-    person_id,semaglutide_used,semaglutide_first_date,liraglutide_used,liraglutide_first_date,...
-    12345,1,2020-03-15,0,,
-    67890,0,,1,2019-06-20,
-    11111,1,2021-01-10,1,2020-05-05,
-
-2. concept sets (OUTPUT_CONCEPTS_DIR):
-    - {drug}_concepts.csv: concept_id, concept_name, concept_code 
-    - concept_sets_summary.csv: concept ID 
-"""
-
 import logging
 from pathlib import Path
 from typing import Any, Dict, List
@@ -23,18 +8,22 @@ LOGGER = logging.getLogger("drug_identifier")
 
 CDM_PATH = "/media/volume/GLP/RDRP_6287_GLP_1/"
 
+
 TABLES = {
     "concept": "r6287_concept.csv",
     "concept_ancestor": "r6287_concept_ancestor.csv",
     "drug_exposure": "r6287_drug_exposure.csv"
 }
 
+
 COHORT_FILTER = None 
 OUTPUT_CSV = "./output/drug_users_summary.csv"
-OUTPUT_CONCEPTS_DIR = "./output/concept_sets"  
+OUTPUT_CONCEPTS_DIR = "./config/concept_sets" 
+
 
 STUDY_START_DATE = "2015-01-01"
 STUDY_END_DATE = "2025-09-30"
+
 
 INGREDIENTS = {
     "semaglutide": {
