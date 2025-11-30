@@ -8,7 +8,6 @@ Method:
 - Nearest neighbor matching with caliper
 - Standardized mean difference (SMD) calculation for balance assessment
 
-Author: Yao An Lee
 """
 
 import os
