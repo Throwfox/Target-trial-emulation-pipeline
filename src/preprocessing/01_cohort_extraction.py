@@ -11,8 +11,6 @@ Inclusion Criteria:
 3. Patients had at least one encounter before the index date
 4. Within study period (configurable)
 
-Author: Yao An Lee
-Organization: University of Florida Department of Pharmaceutical Outcomes & Policy
 """
 
 import os
