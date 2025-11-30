@@ -1,29 +1,16 @@
 """
-Drug Identifier Script - 识别多种药物的使用情况
-
-功能：
-1. 根据 ingredient concept IDs 查找所有相关的药物概念（包括 descendants）
-2. 保存每种药物的完整 concept ID sets 到单独的 CSV 文件
-3. 在 drug_exposure 表中搜索用药记录
-4. 生成患者用药汇总表，每种药物包含：
-   - {药物名}_used: 是否使用过该药物 (0/1)
-   - {药物名}_first_date: 首次使用日期
-
-使用方法：
+Drug Identifier Script - 
     python drug_identifier.py
 
-输出文件：
-1. 患者用药汇总表 (OUTPUT_CSV):
+1. (OUTPUT_CSV):
     person_id,semaglutide_used,semaglutide_first_date,liraglutide_used,liraglutide_first_date,...
     12345,1,2020-03-15,0,,
     67890,0,,1,2019-06-20,
     11111,1,2021-01-10,1,2020-05-05,
 
-2. 每种药物的 concept sets (OUTPUT_CONCEPTS_DIR):
-    - {药物名}_concepts.csv: 包含 concept_id, concept_name, concept_code 等详细信息
-    - concept_sets_summary.csv: 所有药物的 concept ID 汇总统计
-
-注意：所有配置都在下面的"配置区域"中，直接修改即可。
+2. concept sets (OUTPUT_CONCEPTS_DIR):
+    - {drug}_concepts.csv: concept_id, concept_name, concept_code 
+    - concept_sets_summary.csv: concept ID 
 """
 
 import logging
@@ -34,31 +21,21 @@ import duckdb
 
 LOGGER = logging.getLogger("drug_identifier")
 
-# ============================================================
-# 配置区域 - 在这里修改你的设置
-# ============================================================
-
-# OMOP CDM 数据路径
 CDM_PATH = "/media/volume/GLP/RDRP_6287_GLP_1/"
 
-# 数据表文件名
 TABLES = {
     "concept": "r6287_concept.csv",
     "concept_ancestor": "r6287_concept_ancestor.csv",
     "drug_exposure": "r6287_drug_exposure.csv"
 }
 
-# 输入/输出
-COHORT_FILTER = None  # 如果需要限制在特定队列，填写路径，如: "data/obesity_cohort.csv"
+COHORT_FILTER = None 
 OUTPUT_CSV = "./output/drug_users_summary.csv"
-OUTPUT_CONCEPTS_DIR = "./output/concept_sets"  # 保存每种药物的 concept ID sets
+OUTPUT_CONCEPTS_DIR = "./output/concept_sets"  
 
-# 研究时间范围
 STUDY_START_DATE = "2015-01-01"
 STUDY_END_DATE = "2025-09-30"
 
-# 药物成分配置
-# 每种药物会生成两列: {药物名}_used 和 {药物名}_first_date
 INGREDIENTS = {
     "semaglutide": {
         "concept_ids": [793143],
@@ -90,13 +67,9 @@ INGREDIENTS = {
     }
 }
 
-# 其他设置
+
 DUCKDB_SAMPLE_SIZE = 200000
 LOG_LEVEL = "INFO"
-
-# ============================================================
-# 以下是代码实现，一般不需要修改
-# ============================================================
 
 
 def _resolve_path(base: Path, relative_or_absolute: str) -> str:
