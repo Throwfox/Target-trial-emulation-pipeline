@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # OMOP GLP-1 Complete Pipeline Runner
-# Author: Yao An Lee
 # Usage: bash run_pipeline.sh <config_file.json>
 
 if [ $# -eq 0 ]; then
