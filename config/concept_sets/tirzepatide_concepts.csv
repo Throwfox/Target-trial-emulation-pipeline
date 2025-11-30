@@ -1,0 +1,123 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,VOCABULARY_ID,DOMAIN_ID,is_original_ingredient
+746313,tirzepatide Injection,2644395,Clinical Drug Form,RxNorm,Drug,0
+746314,tirzepatide 15 MG/ML Injection,2644397,Clinical Drug,RxNorm,Drug,0
+746315,tirzepatide Injection [Mounjaro],2644398,Branded Drug Form,RxNorm,Drug,0
+746316,tirzepatide 15 MG/ML Injection [Mounjaro],2644400,Branded Drug,RxNorm,Drug,0
+746317,tirzepatide 10 MG/ML Injection,2644402,Clinical Drug,RxNorm,Drug,0
+746318,tirzepatide 10 MG/ML Injection [Mounjaro],2644404,Branded Drug,RxNorm,Drug,0
+746319,tirzepatide 5 MG/ML Injection,2644406,Clinical Drug,RxNorm,Drug,0
+746320,tirzepatide 5 MG/ML Injection [Mounjaro],2644408,Branded Drug,RxNorm,Drug,0
+746321,tirzepatide 30 MG/ML Injection,2644410,Clinical Drug,RxNorm,Drug,0
+746322,tirzepatide 30 MG/ML Injection [Mounjaro],2644412,Branded Drug,RxNorm,Drug,0
+746323,tirzepatide 25 MG/ML Injection,2644414,Clinical Drug,RxNorm,Drug,0
+746324,tirzepatide 25 MG/ML Injection [Mounjaro],2644416,Branded Drug,RxNorm,Drug,0
+746325,tirzepatide 20 MG/ML Injection,2644418,Clinical Drug,RxNorm,Drug,0
+746326,tirzepatide 20 MG/ML Injection [Mounjaro],2644420,Branded Drug,RxNorm,Drug,0
+747139,tirzepatide 5 MG/ML [Zepbound],2669703,Branded Drug Comp,RxNorm,Drug,0
+747140,Zepbound Injectable Product,2669704,Branded Dose Group,RxNorm,Drug,0
+747141,tirzepatide Auto-Injector [Zepbound],2669705,Branded Drug Form,RxNorm,Drug,0
+747142,tirzepatide 5 MG/ML Auto-Injector [Zepbound],2669707,Branded Drug,RxNorm,Drug,0
+747143,tirzepatide 10 MG/ML [Zepbound],2669708,Branded Drug Comp,RxNorm,Drug,0
+747144,tirzepatide 10 MG/ML Auto-Injector [Zepbound],2669710,Branded Drug,RxNorm,Drug,0
+747145,tirzepatide 15 MG/ML [Zepbound],2669711,Branded Drug Comp,RxNorm,Drug,0
+747146,tirzepatide 15 MG/ML Auto-Injector [Zepbound],2669713,Branded Drug,RxNorm,Drug,0
+747147,tirzepatide 20 MG/ML [Zepbound],2669714,Branded Drug Comp,RxNorm,Drug,0
+747148,tirzepatide 20 MG/ML Auto-Injector [Zepbound],2669716,Branded Drug,RxNorm,Drug,0
+747149,tirzepatide 25 MG/ML [Zepbound],2669717,Branded Drug Comp,RxNorm,Drug,0
+747150,tirzepatide 25 MG/ML Auto-Injector [Zepbound],2669719,Branded Drug,RxNorm,Drug,0
+747151,tirzepatide 30 MG/ML [Zepbound],2669720,Branded Drug Comp,RxNorm,Drug,0
+747152,tirzepatide 30 MG/ML Auto-Injector [Zepbound],2669722,Branded Drug,RxNorm,Drug,0
+747773,0.5 ML tirzepatide 15 MG/ML Injection,2644396,Quant Clinical Drug,RxNorm,Drug,0
+747774,0.5 ML tirzepatide 15 MG/ML Injection [Mounjaro],2644399,Quant Branded Drug,RxNorm,Drug,0
+747775,0.5 ML tirzepatide 10 MG/ML Injection,2644401,Quant Clinical Drug,RxNorm,Drug,0
+747776,0.5 ML tirzepatide 10 MG/ML Injection [Mounjaro],2644403,Quant Branded Drug,RxNorm,Drug,0
+747777,0.5 ML tirzepatide 5 MG/ML Injection,2644405,Quant Clinical Drug,RxNorm,Drug,0
+747778,0.5 ML tirzepatide 5 MG/ML Injection [Mounjaro],2644407,Quant Branded Drug,RxNorm,Drug,0
+747779,0.5 ML tirzepatide 30 MG/ML Injection,2644409,Quant Clinical Drug,RxNorm,Drug,0
+747780,0.5 ML tirzepatide 30 MG/ML Injection [Mounjaro],2644411,Quant Branded Drug,RxNorm,Drug,0
+747781,0.5 ML tirzepatide 25 MG/ML Injection,2644413,Quant Clinical Drug,RxNorm,Drug,0
+747782,0.5 ML tirzepatide 25 MG/ML Injection [Mounjaro],2644415,Quant Branded Drug,RxNorm,Drug,0
+747783,0.5 ML tirzepatide 20 MG/ML Injection,2644417,Quant Clinical Drug,RxNorm,Drug,0
+747784,0.5 ML tirzepatide 20 MG/ML Injection [Mounjaro],2644419,Quant Branded Drug,RxNorm,Drug,0
+747888,0.5 ML tirzepatide 5 MG/ML Auto-Injector [Zepbound],2669706,Quant Branded Drug,RxNorm,Drug,0
+747889,0.5 ML tirzepatide 10 MG/ML Auto-Injector [Zepbound],2669709,Quant Branded Drug,RxNorm,Drug,0
+747890,0.5 ML tirzepatide 15 MG/ML Auto-Injector [Zepbound],2669712,Quant Branded Drug,RxNorm,Drug,0
+747891,0.5 ML tirzepatide 20 MG/ML Auto-Injector [Zepbound],2669715,Quant Branded Drug,RxNorm,Drug,0
+747892,0.5 ML tirzepatide 25 MG/ML Auto-Injector [Zepbound],2669718,Quant Branded Drug,RxNorm,Drug,0
+747893,0.5 ML tirzepatide 30 MG/ML Auto-Injector [Zepbound],2669721,Quant Branded Drug,RxNorm,Drug,0
+779705,tirzepatide,2601723,Ingredient,RxNorm,Drug,1
+779710,tirzepatide Injectable Product,2601730,Clinical Dose Group,RxNorm,Drug,0
+779711,tirzepatide Auto-Injector,2601731,Clinical Drug Form,RxNorm,Drug,0
+779713,Mounjaro Injectable Product,2601736,Branded Dose Group,RxNorm,Drug,0
+779714,tirzepatide Auto-Injector [Mounjaro],2601737,Branded Drug Form,RxNorm,Drug,0
+779717,tirzepatide 10 MG/ML,2601742,Clinical Drug Comp,RxNorm,Drug,0
+779718,tirzepatide 10 MG/ML Auto-Injector,2601744,Clinical Drug,RxNorm,Drug,0
+779719,tirzepatide 10 MG/ML [Mounjaro],2601745,Branded Drug Comp,RxNorm,Drug,0
+779720,tirzepatide 10 MG/ML Auto-Injector [Mounjaro],2601747,Branded Drug,RxNorm,Drug,0
+779721,tirzepatide 30 MG/ML,2601754,Clinical Drug Comp,RxNorm,Drug,0
+779722,tirzepatide 30 MG/ML Auto-Injector,2601756,Clinical Drug,RxNorm,Drug,0
+779723,tirzepatide 30 MG/ML [Mounjaro],2601757,Branded Drug Comp,RxNorm,Drug,0
+779724,tirzepatide 30 MG/ML Auto-Injector [Mounjaro],2601759,Branded Drug,RxNorm,Drug,0
+779725,tirzepatide 5 MG/ML,2601760,Clinical Drug Comp,RxNorm,Drug,0
+779726,tirzepatide 5 MG/ML Auto-Injector,2601762,Clinical Drug,RxNorm,Drug,0
+779727,tirzepatide 5 MG/ML [Mounjaro],2601763,Branded Drug Comp,RxNorm,Drug,0
+779728,tirzepatide 5 MG/ML Auto-Injector [Mounjaro],2601765,Branded Drug,RxNorm,Drug,0
+779729,tirzepatide 20 MG/ML,2601766,Clinical Drug Comp,RxNorm,Drug,0
+779730,tirzepatide 20 MG/ML Auto-Injector,2601768,Clinical Drug,RxNorm,Drug,0
+779731,tirzepatide 20 MG/ML [Mounjaro],2601769,Branded Drug Comp,RxNorm,Drug,0
+779732,tirzepatide 20 MG/ML Auto-Injector [Mounjaro],2601771,Branded Drug,RxNorm,Drug,0
+779733,tirzepatide 25 MG/ML,2601772,Clinical Drug Comp,RxNorm,Drug,0
+779734,tirzepatide 25 MG/ML Auto-Injector,2601774,Clinical Drug,RxNorm,Drug,0
+779735,tirzepatide 25 MG/ML [Mounjaro],2601775,Branded Drug Comp,RxNorm,Drug,0
+779736,tirzepatide 25 MG/ML Auto-Injector [Mounjaro],2601777,Branded Drug,RxNorm,Drug,0
+779737,tirzepatide 15 MG/ML,2601778,Clinical Drug Comp,RxNorm,Drug,0
+779738,tirzepatide 15 MG/ML Auto-Injector,2601780,Clinical Drug,RxNorm,Drug,0
+779739,tirzepatide 15 MG/ML [Mounjaro],2601781,Branded Drug Comp,RxNorm,Drug,0
+779740,tirzepatide 15 MG/ML Auto-Injector [Mounjaro],2601783,Branded Drug,RxNorm,Drug,0
+780255,0.5 ML tirzepatide 10 MG/ML Auto-Injector,2601743,Quant Clinical Drug,RxNorm,Drug,0
+780256,0.5 ML tirzepatide 10 MG/ML Auto-Injector [Mounjaro],2601746,Quant Branded Drug,RxNorm,Drug,0
+780257,0.5 ML tirzepatide 30 MG/ML Auto-Injector,2601755,Quant Clinical Drug,RxNorm,Drug,0
+780258,0.5 ML tirzepatide 30 MG/ML Auto-Injector [Mounjaro],2601758,Quant Branded Drug,RxNorm,Drug,0
+780259,0.5 ML tirzepatide 5 MG/ML Auto-Injector,2601761,Quant Clinical Drug,RxNorm,Drug,0
+780260,0.5 ML tirzepatide 5 MG/ML Auto-Injector [Mounjaro],2601764,Quant Branded Drug,RxNorm,Drug,0
+780261,0.5 ML tirzepatide 20 MG/ML Auto-Injector,2601767,Quant Clinical Drug,RxNorm,Drug,0
+780262,0.5 ML tirzepatide 20 MG/ML Auto-Injector [Mounjaro],2601770,Quant Branded Drug,RxNorm,Drug,0
+780263,0.5 ML tirzepatide 25 MG/ML Auto-Injector,2601773,Quant Clinical Drug,RxNorm,Drug,0
+780264,0.5 ML tirzepatide 25 MG/ML Auto-Injector [Mounjaro],2601776,Quant Branded Drug,RxNorm,Drug,0
+780265,0.5 ML tirzepatide 15 MG/ML Auto-Injector,2601784,Quant Clinical Drug,RxNorm,Drug,0
+780266,0.5 ML tirzepatide 15 MG/ML Auto-Injector [Mounjaro],2601785,Quant Branded Drug,RxNorm,Drug,0
+36923653,tirzepatide Injectable Solution,OMOP5206315,Clinical Drug Form,RxNorm Extension,Drug,0
+36927976,tirzepatide 10 MG/ML Injectable Solution,OMOP5206321,Clinical Drug,RxNorm Extension,Drug,0
+36929841,tirzepatide 5 MG/ML Injectable Solution Box of 4,OMOP5206318,Clinical Drug Box,RxNorm Extension,Drug,0
+36929947,0.5 ML tirzepatide 5 MG/ML Injectable Solution [Mounjaro] by Eli Lilly,OMOP5207874,Marketed Product,RxNorm Extension,Drug,0
+36930446,0.5 ML tirzepatide 10 MG/ML Injectable Solution [Mounjaro] Box of 4,OMOP5207881,Quant Branded Box,RxNorm Extension,Drug,0
+36932549,tirzepatide 5 MG/ML Injectable Solution,OMOP5206317,Clinical Drug,RxNorm Extension,Drug,0
+36933452,0.5 ML tirzepatide 10 MG/ML Injectable Solution Box of 4,OMOP5207878,Quant Clinical Box,RxNorm Extension,Drug,0
+36934548,0.5 ML tirzepatide 5 MG/ML Injectable Solution [Mounjaro] Box of 4,OMOP5207875,Quant Branded Box,RxNorm Extension,Drug,0
+36937264,0.5 ML tirzepatide 10 MG/ML Injectable Solution [Mounjaro],OMOP5207879,Quant Branded Drug,RxNorm Extension,Drug,0
+36938127,0.5 ML tirzepatide 5 MG/ML Injectable Solution Box of 4,OMOP5207872,Quant Clinical Box,RxNorm Extension,Drug,0
+36939754,0.5 ML tirzepatide 5 MG/ML Injectable Solution [Mounjaro] Box of 4 by Eli Lilly,OMOP5207876,Marketed Product,RxNorm Extension,Drug,0
+36942095,0.5 ML tirzepatide 10 MG/ML Injectable Solution,OMOP5207877,Quant Clinical Drug,RxNorm Extension,Drug,0
+36944132,tirzepatide 5 MG/ML Injectable Solution [Mounjaro],OMOP5206319,Branded Drug,RxNorm Extension,Drug,0
+36948600,tirzepatide 10 MG/ML Injectable Solution [Mounjaro] Box of 4,OMOP5206324,Branded Drug Box,RxNorm Extension,Drug,0
+36953121,tirzepatide Injectable Solution [Mounjaro],OMOP5206316,Branded Drug Form,RxNorm Extension,Drug,0
+36953940,tirzepatide 10 MG/ML Injectable Solution Box of 4,OMOP5206322,Clinical Drug Box,RxNorm Extension,Drug,0
+36958832,0.5 ML tirzepatide 5 MG/ML Injectable Solution,OMOP5207871,Quant Clinical Drug,RxNorm Extension,Drug,0
+36958884,0.5 ML tirzepatide 10 MG/ML Injectable Solution [Mounjaro] Box of 4 by Eli Lilly,OMOP5207882,Marketed Product,RxNorm Extension,Drug,0
+36963555,tirzepatide 5 MG/ML Injectable Solution [Mounjaro] Box of 4,OMOP5206320,Branded Drug Box,RxNorm Extension,Drug,0
+36964513,tirzepatide 10 MG/ML Injectable Solution [Mounjaro],OMOP5206323,Branded Drug,RxNorm Extension,Drug,0
+36965264,0.5 ML tirzepatide 5 MG/ML Injectable Solution [Mounjaro],OMOP5207873,Quant Branded Drug,RxNorm Extension,Drug,0
+36965415,0.5 ML tirzepatide 10 MG/ML Injectable Solution [Mounjaro] by Eli Lilly,OMOP5207880,Marketed Product,RxNorm Extension,Drug,0
+42609592,tirzepatide Injection [Zepbound],2679316,Branded Drug Form,RxNorm,Drug,0
+42609593,tirzepatide 20 MG/ML Injection [Zepbound],2679318,Branded Drug,RxNorm,Drug,0
+42609594,tirzepatide 25 MG/ML Injection [Zepbound],2679320,Branded Drug,RxNorm,Drug,0
+42609595,tirzepatide 30 MG/ML Injection [Zepbound],2679322,Branded Drug,RxNorm,Drug,0
+42609596,tirzepatide 5 MG/ML Injection [Zepbound],2679324,Branded Drug,RxNorm,Drug,0
+42609597,tirzepatide 10 MG/ML Injection [Zepbound],2679326,Branded Drug,RxNorm,Drug,0
+42609598,tirzepatide 15 MG/ML Injection [Zepbound],2679328,Branded Drug,RxNorm,Drug,0
+42609778,0.5 ML tirzepatide 20 MG/ML Injection [Zepbound],2679317,Quant Branded Drug,RxNorm,Drug,0
+42609779,0.5 ML tirzepatide 25 MG/ML Injection [Zepbound],2679319,Quant Branded Drug,RxNorm,Drug,0
+42609780,0.5 ML tirzepatide 30 MG/ML Injection [Zepbound],2679321,Quant Branded Drug,RxNorm,Drug,0
+42609781,0.5 ML tirzepatide 5 MG/ML Injection [Zepbound],2679323,Quant Branded Drug,RxNorm,Drug,0
+42609782,0.5 ML tirzepatide 10 MG/ML Injection [Zepbound],2679325,Quant Branded Drug,RxNorm,Drug,0
+42609783,0.5 ML tirzepatide 15 MG/ML Injection [Zepbound],2679327,Quant Branded Drug,RxNorm,Drug,0

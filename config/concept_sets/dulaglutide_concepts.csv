@@ -1,0 +1,174 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,VOCABULARY_ID,DOMAIN_ID,is_original_ingredient
+1832042,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by Orifarm,OMOP5157288,Marketed Product,RxNorm Extension,Drug,0
+1832043,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by Abacus Medicine,OMOP5157289,Marketed Product,RxNorm Extension,Drug,0
+1970909,dulaglutide 6 MG/ML Prefilled Syringe,OMOP5163486,Clinical Drug,RxNorm Extension,Drug,0
+1970910,dulaglutide 6 MG/ML Prefilled Syringe Box of 4,OMOP5163487,Clinical Drug Box,RxNorm Extension,Drug,0
+1970911,dulaglutide 6 MG/ML Prefilled Syringe [Trulicity],OMOP5163488,Branded Drug,RxNorm Extension,Drug,0
+1970912,dulaglutide 6 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP5163489,Branded Drug Box,RxNorm Extension,Drug,0
+1970913,dulaglutide 9 MG/ML Prefilled Syringe,OMOP5163490,Clinical Drug,RxNorm Extension,Drug,0
+1970914,dulaglutide 9 MG/ML Prefilled Syringe Box of 4,OMOP5163491,Clinical Drug Box,RxNorm Extension,Drug,0
+1970915,dulaglutide 9 MG/ML Prefilled Syringe [Trulicity],OMOP5163492,Branded Drug,RxNorm Extension,Drug,0
+1970916,dulaglutide 9 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP5163493,Branded Drug Box,RxNorm Extension,Drug,0
+1972662,0.5 ML dulaglutide 6 MG/ML Prefilled Syringe,OMOP5165229,Quant Clinical Drug,RxNorm Extension,Drug,0
+1972663,0.5 ML dulaglutide 6 MG/ML Prefilled Syringe Box of 4,OMOP5165230,Quant Clinical Box,RxNorm Extension,Drug,0
+1972664,0.5 ML dulaglutide 6 MG/ML Prefilled Syringe [Trulicity],OMOP5165231,Quant Branded Drug,RxNorm Extension,Drug,0
+1972665,0.5 ML dulaglutide 6 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP5165232,Quant Branded Box,RxNorm Extension,Drug,0
+1972666,0.5 ML dulaglutide 6 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Lilly,OMOP5165233,Marketed Product,RxNorm Extension,Drug,0
+1972667,0.5 ML dulaglutide 9 MG/ML Prefilled Syringe,OMOP5165234,Quant Clinical Drug,RxNorm Extension,Drug,0
+1972668,0.5 ML dulaglutide 9 MG/ML Prefilled Syringe Box of 4,OMOP5165235,Quant Clinical Box,RxNorm Extension,Drug,0
+1972669,0.5 ML dulaglutide 9 MG/ML Prefilled Syringe [Trulicity],OMOP5165236,Quant Branded Drug,RxNorm Extension,Drug,0
+1972670,0.5 ML dulaglutide 9 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP5165237,Quant Branded Box,RxNorm Extension,Drug,0
+1972671,0.5 ML dulaglutide 9 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Lilly,OMOP5165238,Marketed Product,RxNorm Extension,Drug,0
+2902024,0.5 ML dulaglutide 3 MG/ML Injection [Trulicity] Box of 2,OMOP5118896,Quant Branded Box,RxNorm Extension,Drug,0
+2902025,0.5 ML dulaglutide 3 MG/ML Injection Box of 2,OMOP5118897,Quant Clinical Box,RxNorm Extension,Drug,0
+2902026,0.5 ML dulaglutide 3 MG/ML Pen Injector [Trulicity] Box of 4,OMOP5118898,Quant Branded Box,RxNorm Extension,Drug,0
+2902027,0.5 ML dulaglutide 3 MG/ML Pen Injector [Trulicity] Box of 2,OMOP5118899,Quant Branded Box,RxNorm Extension,Drug,0
+2902028,0.5 ML dulaglutide 3 MG/ML Pen Injector Box of 4,OMOP5118900,Quant Clinical Box,RxNorm Extension,Drug,0
+2902029,0.5 ML dulaglutide 3 MG/ML Pen Injector Box of 2,OMOP5118901,Quant Clinical Box,RxNorm Extension,Drug,0
+2926575,dulaglutide 3 MG/ML Injection [Trulicity] Box of 2,OMOP5143374,Branded Drug Box,RxNorm Extension,Drug,0
+2926576,dulaglutide 3 MG/ML Injection Box of 2,OMOP5143375,Clinical Drug Box,RxNorm Extension,Drug,0
+2926577,dulaglutide 3 MG/ML Pen Injector [Trulicity] Box of 4,OMOP5143376,Branded Drug Box,RxNorm Extension,Drug,0
+2926579,dulaglutide 3 MG/ML Pen Injector [Trulicity] Box of 2,OMOP5143377,Branded Drug Box,RxNorm Extension,Drug,0
+2926580,dulaglutide 3 MG/ML Pen Injector Box of 4,OMOP5143378,Clinical Drug Box,RxNorm Extension,Drug,0
+2926581,dulaglutide 3 MG/ML Pen Injector Box of 2,OMOP5143379,Clinical Drug Box,RxNorm Extension,Drug,0
+21041604,dulaglutide 1.5 MG/ML Prefilled Syringe Box of 4,OMOP343862,Clinical Drug Box,RxNorm Extension,Drug,0
+21049370,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe,OMOP286558,Quant Clinical Drug,RxNorm Extension,Drug,0
+21061182,dulaglutide 3 MG/ML Prefilled Syringe Box of 4,OMOP343864,Clinical Drug Box,RxNorm Extension,Drug,0
+21069050,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity],OMOP286560,Quant Branded Drug,RxNorm Extension,Drug,0
+21078825,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity],OMOP286566,Quant Branded Drug,RxNorm Extension,Drug,0
+21118000,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] by Lilly,OMOP286567,Marketed Product,RxNorm Extension,Drug,0
+21127764,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP286562,Quant Branded Box,RxNorm Extension,Drug,0
+21137643,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe Box of 4,OMOP286565,Quant Clinical Box,RxNorm Extension,Drug,0
+21139712,dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP343866,Branded Drug Box,RxNorm Extension,Drug,0
+21149564,dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP343863,Branded Drug Box,RxNorm Extension,Drug,0
+21157455,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] by Lilly,OMOP286561,Marketed Product,RxNorm Extension,Drug,0
+21167204,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe Box of 4,OMOP286559,Quant Clinical Box,RxNorm Extension,Drug,0
+21167205,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe,OMOP286564,Quant Clinical Drug,RxNorm Extension,Drug,0
+21176994,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 4,OMOP286568,Quant Branded Box,RxNorm Extension,Drug,0
+35409202,dulaglutide 3 MG/ML Prefilled Syringe [Trulicity],OMOP1142787,Branded Drug,RxNorm Extension,Drug,0
+35409947,dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity],OMOP1143532,Branded Drug,RxNorm Extension,Drug,0
+35412102,dulaglutide 3 MG/ML Prefilled Syringe,OMOP1145687,Clinical Drug,RxNorm Extension,Drug,0
+35412890,dulaglutide 1.5 MG/ML Prefilled Syringe,OMOP1146475,Clinical Drug,RxNorm Extension,Drug,0
+35895336,0.5 ML dulaglutide 9 MG/ML Injectable Solution [Trulicity] Box of 4 by Eli Lilly,OMOP5040643,Marketed Product,RxNorm Extension,Drug,0
+35895337,0.5 ML dulaglutide 9 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP5040644,Quant Branded Box,RxNorm Extension,Drug,0
+35895338,0.5 ML dulaglutide 9 MG/ML Injectable Solution [Trulicity] by Eli Lilly,OMOP5040645,Marketed Product,RxNorm Extension,Drug,0
+35895339,0.5 ML dulaglutide 9 MG/ML Injectable Solution [Trulicity],OMOP5040646,Quant Branded Drug,RxNorm Extension,Drug,0
+35895340,0.5 ML dulaglutide 9 MG/ML Injectable Solution Box of 4,OMOP5040647,Quant Clinical Box,RxNorm Extension,Drug,0
+35895341,0.5 ML dulaglutide 9 MG/ML Injectable Solution,OMOP5040648,Quant Clinical Drug,RxNorm Extension,Drug,0
+35895342,0.5 ML dulaglutide 6 MG/ML Injectable Solution [Trulicity] Box of 4 by Eli Lilly,OMOP5040649,Marketed Product,RxNorm Extension,Drug,0
+35895343,0.5 ML dulaglutide 6 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP5040650,Quant Branded Box,RxNorm Extension,Drug,0
+35895344,0.5 ML dulaglutide 6 MG/ML Injectable Solution [Trulicity] by Eli Lilly,OMOP5040651,Marketed Product,RxNorm Extension,Drug,0
+35895345,0.5 ML dulaglutide 6 MG/ML Injectable Solution [Trulicity],OMOP5040652,Quant Branded Drug,RxNorm Extension,Drug,0
+35895346,0.5 ML dulaglutide 6 MG/ML Injectable Solution Box of 4,OMOP5040653,Quant Clinical Box,RxNorm Extension,Drug,0
+35895347,0.5 ML dulaglutide 6 MG/ML Injectable Solution,OMOP5040654,Quant Clinical Drug,RxNorm Extension,Drug,0
+35898074,dulaglutide 9 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP5042313,Branded Drug Box,RxNorm Extension,Drug,0
+35898075,dulaglutide 9 MG/ML Injectable Solution [Trulicity],OMOP5042314,Branded Drug,RxNorm Extension,Drug,0
+35898076,dulaglutide 9 MG/ML Injectable Solution Box of 4,OMOP5042315,Clinical Drug Box,RxNorm Extension,Drug,0
+35898077,dulaglutide 9 MG/ML Injectable Solution,OMOP5042316,Clinical Drug,RxNorm Extension,Drug,0
+35898078,dulaglutide 6 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP5042317,Branded Drug Box,RxNorm Extension,Drug,0
+35898079,dulaglutide 6 MG/ML Injectable Solution [Trulicity],OMOP5042318,Branded Drug,RxNorm Extension,Drug,0
+35898080,dulaglutide 6 MG/ML Injectable Solution Box of 4,OMOP5042319,Clinical Drug Box,RxNorm Extension,Drug,0
+35898081,dulaglutide 6 MG/ML Injectable Solution,OMOP5042320,Clinical Drug,RxNorm Extension,Drug,0
+36247185,dulaglutide Injectable Product,1551293,Clinical Dose Group,RxNorm,Drug,0
+36247186,Trulicity Injectable Product,1551299,Branded Dose Group,RxNorm,Drug,0
+36281056,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] Box of 4 by Eli Lilly,OMOP3131931,Marketed Product,RxNorm Extension,Drug,0
+36281086,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by Eli Lilly,OMOP3131961,Marketed Product,RxNorm Extension,Drug,0
+36781837,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Eli Lilly,OMOP4770123,Marketed Product,RxNorm Extension,Drug,0
+36781838,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Eli Lilly,OMOP4770124,Marketed Product,RxNorm Extension,Drug,0
+37002813,dulaglutide 6 MG/ML,2395776,Clinical Drug Comp,RxNorm,Drug,0
+37002814,dulaglutide 6 MG/ML [Trulicity],2395778,Branded Drug Comp,RxNorm,Drug,0
+37002815,dulaglutide 6 MG/ML Auto-Injector,2395780,Clinical Drug,RxNorm,Drug,0
+37002816,dulaglutide 6 MG/ML Auto-Injector [Trulicity],2395781,Branded Drug,RxNorm,Drug,0
+37002817,dulaglutide 9 MG/ML,2395782,Clinical Drug Comp,RxNorm,Drug,0
+37002818,dulaglutide 9 MG/ML [Trulicity],2395784,Branded Drug Comp,RxNorm,Drug,0
+37002819,dulaglutide 9 MG/ML Auto-Injector,2395786,Clinical Drug,RxNorm,Drug,0
+37002820,dulaglutide 9 MG/ML Auto-Injector [Trulicity],2395787,Branded Drug,RxNorm,Drug,0
+37003606,0.5 ML dulaglutide 6 MG/ML Auto-Injector,2395777,Quant Clinical Drug,RxNorm,Drug,0
+37003607,0.5 ML dulaglutide 6 MG/ML Auto-Injector [Trulicity],2395779,Quant Branded Drug,RxNorm,Drug,0
+37003608,0.5 ML dulaglutide 9 MG/ML Auto-Injector,2395783,Quant Clinical Drug,RxNorm,Drug,0
+37003609,0.5 ML dulaglutide 9 MG/ML Auto-Injector [Trulicity],2395785,Quant Branded Drug,RxNorm,Drug,0
+40719364,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] by Eli Lilly,OMOP4737865,Marketed Product,RxNorm Extension,Drug,0
+40719365,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] by Eli Lilly,OMOP4737864,Marketed Product,RxNorm Extension,Drug,0
+40898781,dulaglutide 3 MG/ML Prefilled Syringe Box of 12,OMOP2096743,Clinical Drug Box,RxNorm Extension,Drug,0
+40929887,dulaglutide 3 MG/ML Injectable Solution Box of 12,OMOP2127849,Clinical Drug Box,RxNorm Extension,Drug,0
+40940348,dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP2138310,Branded Drug Box,RxNorm Extension,Drug,0
+41064946,dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP2262908,Branded Drug Box,RxNorm Extension,Drug,0
+41086226,dulaglutide 3 MG/ML Injectable Solution Box of 4,OMOP2284188,Clinical Drug Box,RxNorm Extension,Drug,0
+41117463,dulaglutide 1.5 MG/ML Injectable Solution Box of 4,OMOP2315425,Clinical Drug Box,RxNorm Extension,Drug,0
+41190388,dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 12,OMOP2388350,Branded Drug Box,RxNorm Extension,Drug,0
+41252547,dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12,OMOP2450509,Branded Drug Box,RxNorm Extension,Drug,0
+41407362,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12 by Lilly,OMOP2605324,Marketed Product,RxNorm Extension,Drug,0
+41407613,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution Box of 4,OMOP2605575,Quant Clinical Box,RxNorm Extension,Drug,0
+41408094,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12,OMOP2606056,Quant Branded Box,RxNorm Extension,Drug,0
+41408192,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by Lilly,OMOP2606154,Marketed Product,RxNorm Extension,Drug,0
+41408497,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP2606459,Quant Branded Box,RxNorm Extension,Drug,0
+41408564,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12 by Cc,OMOP2606526,Marketed Product,RxNorm Extension,Drug,0
+41408658,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4,OMOP2606620,Quant Branded Box,RxNorm Extension,Drug,0
+41409317,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by European,OMOP2607279,Marketed Product,RxNorm Extension,Drug,0
+41409700,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe Box of 12,OMOP2607662,Quant Clinical Box,RxNorm Extension,Drug,0
+41409863,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] Box of 4 by Lilly,OMOP2607825,Marketed Product,RxNorm Extension,Drug,0
+41409864,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12 by European,OMOP2607826,Marketed Product,RxNorm Extension,Drug,0
+41410096,0.5 ML dulaglutide 3 MG/ML Injectable Solution Box of 12,OMOP2608058,Quant Clinical Box,RxNorm Extension,Drug,0
+41410097,0.5 ML dulaglutide 3 MG/ML Injectable Solution Box of 4,OMOP2608059,Quant Clinical Box,RxNorm Extension,Drug,0
+41410166,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 12,OMOP2608128,Quant Branded Box,RxNorm Extension,Drug,0
+41410255,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4 by European,OMOP2608217,Marketed Product,RxNorm Extension,Drug,0
+42480782,dulaglutide Prefilled Syringe,OMOP418961,Clinical Drug Form,RxNorm Extension,Drug,0
+42481391,dulaglutide Prefilled Syringe [Trulicity],OMOP418962,Branded Drug Form,RxNorm Extension,Drug,0
+42922767,0.5 ML dulaglutide 1.5 MG/ML Pen Injector,OMOP4649757,Quant Clinical Drug,RxNorm Extension,Drug,0
+42922957,0.5 ML dulaglutide 1.5 MG/ML Pen Injector [Trulicity],OMOP4649756,Quant Branded Drug,RxNorm Extension,Drug,0
+42922958,0.5 ML dulaglutide 3 MG/ML Pen Injector [Trulicity],OMOP4649758,Quant Branded Drug,RxNorm Extension,Drug,0
+42922959,0.5 ML dulaglutide 3 MG/ML Pen Injector,OMOP4649759,Quant Clinical Drug,RxNorm Extension,Drug,0
+42963163,dulaglutide 1.5 MG/ML Pen Injector [Trulicity],OMOP4689646,Branded Drug,RxNorm Extension,Drug,0
+42963164,dulaglutide 1.5 MG/ML Pen Injector,OMOP4689647,Clinical Drug,RxNorm Extension,Drug,0
+42963165,dulaglutide 3 MG/ML Pen Injector [Trulicity],OMOP4689648,Branded Drug,RxNorm Extension,Drug,0
+42963166,dulaglutide 3 MG/ML Pen Injector,OMOP4689649,Clinical Drug,RxNorm Extension,Drug,0
+42963167,dulaglutide Pen Injector [Trulicity],OMOP4689650,Branded Drug Form,RxNorm Extension,Drug,0
+42963168,dulaglutide Pen Injector,OMOP4689651,Clinical Drug Form,RxNorm Extension,Drug,0
+43153986,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Lilly,OMOP506936,Marketed Product,RxNorm Extension,Drug,0
+43153987,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4 by Lilly,OMOP506937,Marketed Product,RxNorm Extension,Drug,0
+43259412,0.5 ML dulaglutide 3 MG/ML Injection [Trulicity] Box of 4,OMOP559743,Quant Branded Box,RxNorm Extension,Drug,0
+43269399,dulaglutide Injection,OMOP557441,Clinical Drug Form,RxNorm Extension,Drug,0
+43270316,0.5 ML dulaglutide 3 MG/ML Injection [Trulicity],OMOP559742,Quant Branded Drug,RxNorm Extension,Drug,0
+43280278,dulaglutide Injection [Trulicity],OMOP557442,Branded Drug Form,RxNorm Extension,Drug,0
+43280279,dulaglutide 3 MG/ML Injection Box of 4,OMOP557444,Clinical Drug Box,RxNorm Extension,Drug,0
+43281215,0.5 ML dulaglutide 3 MG/ML Injection Box of 4,OMOP559741,Quant Clinical Box,RxNorm Extension,Drug,0
+43286672,0.5 ML dulaglutide 3 MG/ML Injection,OMOP559739,Quant Clinical Drug,RxNorm Extension,Drug,0
+43291114,dulaglutide 3 MG/ML Injection [Trulicity] Box of 4,OMOP557446,Branded Drug Box,RxNorm Extension,Drug,0
+43296508,dulaglutide 3 MG/ML Injection,OMOP557443,Clinical Drug,RxNorm Extension,Drug,0
+43296509,dulaglutide 3 MG/ML Injection [Trulicity],OMOP557445,Branded Drug,RxNorm Extension,Drug,0
+43517569,dulaglutide 3 MG/ML Auto-Injector Box of 4,OMOP2804684,Clinical Drug Box,RxNorm Extension,Drug,0
+43519173,0.5 ML dulaglutide 3 MG/ML Auto-Injector Box of 4,OMOP2806288,Quant Clinical Box,RxNorm Extension,Drug,0
+44029890,dulaglutide Injectable Solution,OMOP1024521,Clinical Drug Form,RxNorm Extension,Drug,0
+44034733,dulaglutide 3 MG/ML Injectable Solution [Trulicity],OMOP1029364,Branded Drug,RxNorm Extension,Drug,0
+44045768,dulaglutide 1.5 MG/ML Injectable Solution,OMOP1040399,Clinical Drug,RxNorm Extension,Drug,0
+44057249,dulaglutide Injectable Solution [Trulicity],OMOP1051880,Branded Drug Form,RxNorm Extension,Drug,0
+44123449,dulaglutide 3 MG/ML Injectable Solution,OMOP1118080,Clinical Drug,RxNorm Extension,Drug,0
+44125432,dulaglutide 1.5 MG/ML Injectable Solution [Trulicity],OMOP1120063,Branded Drug,RxNorm Extension,Drug,0
+44132541,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity],OMOP1127172,Quant Branded Drug,RxNorm Extension,Drug,0
+44132557,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity] by Lilly,OMOP1127188,Marketed Product,RxNorm Extension,Drug,0
+44132613,0.5 ML dulaglutide 3 MG/ML Injectable Solution,OMOP1127244,Quant Clinical Drug,RxNorm Extension,Drug,0
+44132678,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution [Trulicity],OMOP1127309,Quant Branded Drug,RxNorm Extension,Drug,0
+44132731,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] by Lilly,OMOP1127362,Marketed Product,RxNorm Extension,Drug,0
+44132783,0.5 ML dulaglutide 1.5 MG/ML Injectable Solution,OMOP1127414,Quant Clinical Drug,RxNorm Extension,Drug,0
+44197072,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 12 by European,OMOP3073795,Marketed Product,RxNorm Extension,Drug,0
+44197110,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 12 by Lilly,OMOP3073833,Marketed Product,RxNorm Extension,Drug,0
+44197111,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 4 by European,OMOP3073834,Marketed Product,RxNorm Extension,Drug,0
+44197135,0.5 ML dulaglutide 3 MG/ML Injectable Solution [Trulicity] Box of 12 by European,OMOP3073858,Marketed Product,RxNorm Extension,Drug,0
+44197136,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 4 by European,OMOP3073859,Marketed Product,RxNorm Extension,Drug,0
+44197191,0.5 ML dulaglutide 3 MG/ML Prefilled Syringe [Trulicity] Box of 12 by Cc,OMOP3073914,Marketed Product,RxNorm Extension,Drug,0
+44197236,0.5 ML dulaglutide 1.5 MG/ML Prefilled Syringe [Trulicity] Box of 4 by European,OMOP3073959,Marketed Product,RxNorm Extension,Drug,0
+45774435,dulaglutide,1551291,Ingredient,RxNorm,Drug,1
+45774436,dulaglutide 1.5 MG/ML,1551292,Clinical Drug Comp,RxNorm,Drug,0
+45774438,0.5 ML dulaglutide 1.5 MG/ML Auto-Injector,1551295,Quant Clinical Drug,RxNorm,Drug,0
+45774440,dulaglutide 1.5 MG/ML [Trulicity],1551297,Branded Drug Comp,RxNorm,Drug,0
+45774442,0.5 ML dulaglutide 1.5 MG/ML Auto-Injector [Trulicity],1551300,Quant Branded Drug,RxNorm,Drug,0
+45774443,dulaglutide 1.5 MG/ML Auto-Injector,1551301,Clinical Drug,RxNorm,Drug,0
+45774444,dulaglutide 1.5 MG/ML Auto-Injector [Trulicity],1551302,Branded Drug,RxNorm,Drug,0
+45774445,dulaglutide 3 MG/ML,1551303,Clinical Drug Comp,RxNorm,Drug,0
+45774446,0.5 ML dulaglutide 3 MG/ML Auto-Injector,1551304,Quant Clinical Drug,RxNorm,Drug,0
+45774447,dulaglutide 3 MG/ML [Trulicity],1551305,Branded Drug Comp,RxNorm,Drug,0
+45774448,0.5 ML dulaglutide 3 MG/ML Auto-Injector [Trulicity],1551306,Quant Branded Drug,RxNorm,Drug,0
+45774449,dulaglutide 3 MG/ML Auto-Injector,1551307,Clinical Drug,RxNorm,Drug,0
+45774450,dulaglutide 3 MG/ML Auto-Injector [Trulicity],1551308,Branded Drug,RxNorm,Drug,0
+46234470,dulaglutide Auto-Injector,1649584,Clinical Drug Form,RxNorm,Drug,0
+46234471,dulaglutide Auto-Injector [Trulicity],1649586,Branded Drug Form,RxNorm,Drug,0

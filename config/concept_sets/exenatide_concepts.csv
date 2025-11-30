@@ -1,0 +1,402 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,VOCABULARY_ID,DOMAIN_ID,is_original_ingredient
+793109,exenatide 2.35 MG/ML,1990864,Clinical Drug Comp,RxNorm,Drug,0
+793110,exenatide Auto-Injector,1990865,Clinical Drug Form,RxNorm,Drug,0
+793111,0.85 ML exenatide 2.35 MG/ML Auto-Injector,1990866,Quant Clinical Drug,RxNorm,Drug,0
+793112,exenatide 2.35 MG/ML [Bydureon],1990867,Branded Drug Comp,RxNorm,Drug,0
+793113,exenatide Auto-Injector [Bydureon],1990868,Branded Drug Form,RxNorm,Drug,0
+793114,0.85 ML exenatide 2.35 MG/ML Auto-Injector [Bydureon],1990869,Quant Branded Drug,RxNorm,Drug,0
+793115,exenatide 2.35 MG/ML Auto-Injector,1990870,Clinical Drug,RxNorm,Drug,0
+793116,exenatide 2.35 MG/ML Auto-Injector [Bydureon],1990871,Branded Drug,RxNorm,Drug,0
+994917,exenatide 2 MG Pen Injector,OMOP4821429,Clinical Drug,RxNorm Extension,Drug,0
+994918,exenatide 2 MG Pen Injector [Bydureon],OMOP4821430,Branded Drug,RxNorm Extension,Drug,0
+994919,exenatide 2 MG Pen Injector [Bydureon] by Kohlpharma,OMOP4821431,Marketed Product,RxNorm Extension,Drug,0
+1583722,exenatide,60548,Ingredient,RxNorm,Drug,1
+1583727,60 ACTUAT exenatide 0.01 MG/ACTUAT Pen Injector [Byetta],847913,Quant Branded Drug,RxNorm,Drug,0
+1583728,exenatide 0.005 MG/ACTUAT,847914,Clinical Drug Comp,RxNorm,Drug,0
+1583729,60 ACTUAT exenatide 0.005 MG/ACTUAT Pen Injector,847915,Quant Clinical Drug,RxNorm,Drug,0
+1583730,60 ACTUAT exenatide 0.005 MG/ACTUAT Pen Injector [Byetta],847917,Quant Branded Drug,RxNorm,Drug,0
+1971547,exenatide 2.35 MG/ML Auto-Injector Box of 4,OMOP5164120,Clinical Drug Box,RxNorm Extension,Drug,0
+1971548,exenatide 2.35 MG/ML Auto-Injector Box of 12,OMOP5164121,Clinical Drug Box,RxNorm Extension,Drug,0
+1971549,exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 4,OMOP5164122,Branded Drug Box,RxNorm Extension,Drug,0
+1971550,exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 12,OMOP5164123,Branded Drug Box,RxNorm Extension,Drug,0
+1971551,exenatide 2 MG Pen Injector Box of 4,OMOP5164124,Clinical Drug Box,RxNorm Extension,Drug,0
+1971552,exenatide 2 MG Pen Injector [Bydureon] Box of 4,OMOP5164125,Branded Drug Box,RxNorm Extension,Drug,0
+1972784,0.85 ML exenatide 2.35 MG/ML Auto-Injector Box of 4,OMOP5165350,Quant Clinical Box,RxNorm Extension,Drug,0
+1972785,0.85 ML exenatide 2.35 MG/ML Auto-Injector Box of 12,OMOP5165351,Quant Clinical Box,RxNorm Extension,Drug,0
+1972786,0.85 ML exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 4,OMOP5165352,Quant Branded Box,RxNorm Extension,Drug,0
+1972787,0.85 ML exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 4 by Kohlpharma,OMOP5165353,Marketed Product,RxNorm Extension,Drug,0
+1972788,0.85 ML exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 12,OMOP5165354,Quant Branded Box,RxNorm Extension,Drug,0
+1972789,0.85 ML exenatide 2.35 MG/ML Auto-Injector [Bydureon] Box of 12 by Kohlpharma,OMOP5165355,Marketed Product,RxNorm Extension,Drug,0
+1972900,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] by Eurim-Pharm,OMOP5165463,Marketed Product,RxNorm Extension,Drug,0
+1972966,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Orifarm Leverkus,OMOP5165527,Marketed Product,RxNorm Extension,Drug,0
+2029055,2.4 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by Astrazeneca,OMOP4927798,Marketed Product,RxNorm Extension,Drug,0
+2029056,2.4 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by Lilly,OMOP4927799,Marketed Product,RxNorm Extension,Drug,0
+2029057,2.4 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by BMS,OMOP4927800,Marketed Product,RxNorm Extension,Drug,0
+2030060,1.2 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by Astrazeneca,OMOP4928811,Marketed Product,RxNorm Extension,Drug,0
+2030061,1.2 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by Lilly,OMOP4928812,Marketed Product,RxNorm Extension,Drug,0
+2030062,1.2 ML exenatide 0.25 MG/ML Pen Injector [Byetta] by BMS,OMOP4928813,Marketed Product,RxNorm Extension,Drug,0
+2901603,0.02 ML exenatide 0.25 MG/ML Injection [Byetta] Box of 60,OMOP5118489,Quant Branded Box,RxNorm Extension,Drug,0
+2901604,0.02 ML exenatide 0.25 MG/ML Injection [Byetta],OMOP5118490,Quant Branded Drug,RxNorm Extension,Drug,0
+2901605,0.02 ML exenatide 0.25 MG/ML Injection Box of 60,OMOP5118491,Quant Clinical Box,RxNorm Extension,Drug,0
+2901606,0.02 ML exenatide 0.25 MG/ML Injection,OMOP5118492,Quant Clinical Drug,RxNorm Extension,Drug,0
+2901607,0.02 ML exenatide 0.25 MG/ML Pen Injector [Byetta],OMOP5118493,Quant Branded Drug,RxNorm Extension,Drug,0
+2901608,0.02 ML exenatide 0.25 MG/ML Pen Injector,OMOP5118494,Quant Clinical Drug,RxNorm Extension,Drug,0
+2901609,0.02 ML exenatide 0.25 MG/ML Injectable Solution Box of 60,OMOP5118495,Quant Clinical Box,RxNorm Extension,Drug,0
+2901613,0.04 ML exenatide 0.25 MG/ML Injection [Byetta] Box of 60,OMOP5118499,Quant Branded Box,RxNorm Extension,Drug,0
+2901614,0.04 ML exenatide 0.25 MG/ML Injection [Byetta],OMOP5118500,Quant Branded Drug,RxNorm Extension,Drug,0
+2901615,0.04 ML exenatide 0.25 MG/ML Injection Box of 60,OMOP5118501,Quant Clinical Box,RxNorm Extension,Drug,0
+2901616,0.04 ML exenatide 0.25 MG/ML Injection,OMOP5118502,Quant Clinical Drug,RxNorm Extension,Drug,0
+2901617,0.04 ML exenatide 0.25 MG/ML Pen Injector [Byetta],OMOP5118503,Quant Branded Drug,RxNorm Extension,Drug,0
+2901618,0.04 ML exenatide 0.25 MG/ML Pen Injector,OMOP5118504,Quant Clinical Drug,RxNorm Extension,Drug,0
+2901619,0.04 ML exenatide 0.25 MG/ML Injectable Solution Box of 60,OMOP5118505,Quant Clinical Box,RxNorm Extension,Drug,0
+2902225,0.85 ML exenatide 2.35 MG/ML Injection [Bydureon] Box of 4,OMOP5119095,Quant Branded Box,RxNorm Extension,Drug,0
+2902226,0.85 ML exenatide 2.35 MG/ML Injection [Bydureon],OMOP5119096,Quant Branded Drug,RxNorm Extension,Drug,0
+2902227,0.85 ML exenatide 2.35 MG/ML Injection Box of 4,OMOP5119097,Quant Clinical Box,RxNorm Extension,Drug,0
+2902228,0.85 ML exenatide 2.35 MG/ML Injection,OMOP5119098,Quant Clinical Drug,RxNorm Extension,Drug,0
+2902229,0.85 ML exenatide 2.35 MG/ML Pen Injector [Bydureon],OMOP5119099,Quant Branded Drug,RxNorm Extension,Drug,0
+2902230,0.85 ML exenatide 2.35 MG/ML Pen Injector,OMOP5119100,Quant Clinical Drug,RxNorm Extension,Drug,0
+2918412,exenatide 0.25 MG/ML Injection,OMOP5135889,Clinical Drug,RxNorm Extension,Drug,0
+2919062,exenatide 2 MG Cartridge [Bydureon],OMOP5135878,Branded Drug,RxNorm Extension,Drug,0
+2919063,exenatide 2 MG Cartridge,OMOP5135879,Clinical Drug,RxNorm Extension,Drug,0
+2919064,exenatide 2.35 MG/ML Injection [Bydureon] Box of 4,OMOP5135880,Branded Drug Box,RxNorm Extension,Drug,0
+2919065,exenatide 2.35 MG/ML Injection [Bydureon],OMOP5135881,Branded Drug,RxNorm Extension,Drug,0
+2919066,exenatide 2.35 MG/ML Injection Box of 4,OMOP5135882,Clinical Drug Box,RxNorm Extension,Drug,0
+2919067,exenatide 2.35 MG/ML Injection,OMOP5135883,Clinical Drug,RxNorm Extension,Drug,0
+2919068,exenatide 2.35 MG/ML Pen Injector [Bydureon],OMOP5135884,Branded Drug,RxNorm Extension,Drug,0
+2919069,exenatide 2.35 MG/ML Pen Injector,OMOP5135885,Clinical Drug,RxNorm Extension,Drug,0
+2919070,exenatide 0.25 MG/ML Injection [Byetta] Box of 60,OMOP5135886,Branded Drug Box,RxNorm Extension,Drug,0
+2919071,exenatide 0.25 MG/ML Injection [Byetta],OMOP5135887,Branded Drug,RxNorm Extension,Drug,0
+2919072,exenatide 0.25 MG/ML Injection Box of 60,OMOP5135888,Clinical Drug Box,RxNorm Extension,Drug,0
+2919073,exenatide 0.25 MG/ML Injectable Solution Box of 60,OMOP5135890,Clinical Drug Box,RxNorm Extension,Drug,0
+2919074,exenatide Cartridge [Bydureon],OMOP5135891,Branded Drug Form,RxNorm Extension,Drug,0
+2919075,exenatide Cartridge,OMOP5135892,Clinical Drug Form,RxNorm Extension,Drug,0
+19083253,exenatide 0.01 MG/ACTUAT [Byetta],847911,Branded Drug Comp,RxNorm,Drug,0
+19083254,exenatide 0.005 MG/ACTUAT [Byetta],847916,Branded Drug Comp,RxNorm,Drug,0
+19135404,exenatide 0.01 MG/ACTUAT,847908,Clinical Drug Comp,RxNorm,Drug,0
+19135405,60 ACTUAT exenatide 0.01 MG/ACTUAT Pen Injector,847910,Quant Clinical Drug,RxNorm,Drug,0
+21036255,exenatide 2 MG Injection [Bydureon] by Astrazeneca,OMOP260037,Marketed Product,RxNorm Extension,Drug,0
+21075648,exenatide 0.25 MG/ML,OMOP260028,Clinical Drug Comp,RxNorm Extension,Drug,0
+21085348,exenatide 2 MG Injection Box of 4,OMOP260035,Clinical Drug Box,RxNorm Extension,Drug,0
+21095151,exenatide 2 MG Injection [Bydureon] Box of 4 by Lexon,OMOP260040,Marketed Product,RxNorm Extension,Drug,0
+21105003,exenatide 0.25 MG/ML [Byetta],OMOP260029,Branded Drug Comp,RxNorm Extension,Drug,0
+21105004,exenatide 2 MG Injection [Bydureon] by Lexon,OMOP260036,Marketed Product,RxNorm Extension,Drug,0
+21114821,exenatide 0.25 MG/ML Prefilled Syringe,OMOP260030,Clinical Drug,RxNorm Extension,Drug,0
+21134325,exenatide 0.25 MG/ML Prefilled Syringe [Byetta],OMOP260033,Branded Drug,RxNorm Extension,Drug,0
+21144237,exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1,OMOP260034,Branded Drug Box,RxNorm Extension,Drug,0
+21144238,exenatide 2 MG Injection [Bydureon] Box of 4,OMOP260039,Branded Drug Box,RxNorm Extension,Drug,0
+21144239,exenatide 2 MG Injection [Bydureon] Box of 4 by Astrazeneca,OMOP260041,Marketed Product,RxNorm Extension,Drug,0
+21154179,exenatide 0.25 MG/ML Prefilled Syringe Box of 1,OMOP260032,Clinical Drug Box,RxNorm Extension,Drug,0
+35136109,30 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta],OMOP4793292,Quant Branded Drug,RxNorm Extension,Drug,0
+35157409,30 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe,OMOP4814416,Quant Clinical Drug,RxNorm Extension,Drug,0
+35408695,exenatide 2 MG Injectable Suspension [Bydureon] Box of 4 by Astrazeneca,OMOP1142280,Marketed Product,RxNorm Extension,Drug,0
+35789600,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe Box of 1,OMOP2791061,Quant Clinical Box,RxNorm Extension,Drug,0
+35789601,0.02 ML exenatide 0.25 MG/ML Injectable Solution,OMOP2791062,Quant Clinical Drug,RxNorm Extension,Drug,0
+35789602,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] by Mawdsley-Brooks,OMOP2791063,Marketed Product,RxNorm Extension,Drug,0
+35789603,0.02 ML exenatide 0.25 MG/ML Injectable Solution Box of 1,OMOP2791064,Quant Clinical Box,RxNorm Extension,Drug,0
+35789604,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1,OMOP2791065,Quant Branded Box,RxNorm Extension,Drug,0
+35789605,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Astrazeneca,OMOP2791066,Marketed Product,RxNorm Extension,Drug,0
+35789606,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta],OMOP2791067,Quant Branded Drug,RxNorm Extension,Drug,0
+35789607,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP2791068,Marketed Product,RxNorm Extension,Drug,0
+35789608,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Mawdsley-Brooks,OMOP2791069,Marketed Product,RxNorm Extension,Drug,0
+35789609,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Mawdsley-Brooks,OMOP2791070,Marketed Product,RxNorm Extension,Drug,0
+35789610,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2791071,Quant Branded Box,RxNorm Extension,Drug,0
+35789611,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta],OMOP2791072,Quant Branded Drug,RxNorm Extension,Drug,0
+35789612,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Waymade,OMOP2791073,Marketed Product,RxNorm Extension,Drug,0
+35789613,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe,OMOP2791074,Quant Clinical Drug,RxNorm Extension,Drug,0
+35789614,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP2791075,Marketed Product,RxNorm Extension,Drug,0
+35789615,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Waymade,OMOP2791076,Marketed Product,RxNorm Extension,Drug,0
+35789616,0.02 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Waymade,OMOP2791077,Marketed Product,RxNorm Extension,Drug,0
+35789617,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Mawdsley-Brooks,OMOP2791078,Marketed Product,RxNorm Extension,Drug,0
+35789618,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] by Astrazeneca,OMOP2791079,Marketed Product,RxNorm Extension,Drug,0
+35789619,0.02 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] by Waymade,OMOP2791080,Marketed Product,RxNorm Extension,Drug,0
+35789620,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta],OMOP2791081,Quant Branded Drug,RxNorm Extension,Drug,0
+35789621,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP2791082,Marketed Product,RxNorm Extension,Drug,0
+35789622,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Lexon,OMOP2791083,Marketed Product,RxNorm Extension,Drug,0
+35789623,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe Box of 1,OMOP2791084,Quant Clinical Box,RxNorm Extension,Drug,0
+35789624,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe,OMOP2791085,Quant Clinical Drug,RxNorm Extension,Drug,0
+35789625,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1,OMOP2791086,Quant Branded Box,RxNorm Extension,Drug,0
+35789626,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP2791087,Marketed Product,RxNorm Extension,Drug,0
+35789627,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Lexon,OMOP2791088,Marketed Product,RxNorm Extension,Drug,0
+35789628,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta],OMOP2791089,Quant Branded Drug,RxNorm Extension,Drug,0
+35789629,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] by Astrazeneca,OMOP2791090,Marketed Product,RxNorm Extension,Drug,0
+35789630,0.04 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] by Lexon,OMOP2791091,Marketed Product,RxNorm Extension,Drug,0
+35789631,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Lexon,OMOP2791092,Marketed Product,RxNorm Extension,Drug,0
+35789632,0.04 ML exenatide 0.25 MG/ML Injectable Solution Box of 1,OMOP2791093,Quant Clinical Box,RxNorm Extension,Drug,0
+35789633,0.04 ML exenatide 0.25 MG/ML Injectable Solution,OMOP2791094,Quant Clinical Drug,RxNorm Extension,Drug,0
+35789634,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2791095,Quant Branded Box,RxNorm Extension,Drug,0
+35789635,0.04 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Astrazeneca,OMOP2791096,Marketed Product,RxNorm Extension,Drug,0
+35863044,exenatide 0.25 MG/ML Injectable Solution [Baimida],OMOP5019546,Branded Drug,RxNorm Extension,Drug,0
+35863045,exenatide 0.25 MG/ML [Baimida],OMOP5019547,Branded Drug Comp,RxNorm Extension,Drug,0
+35863046,exenatide Injectable Solution [Baimida],OMOP5019548,Branded Drug Form,RxNorm Extension,Drug,0
+36036063,exenatide 2 MG Pen Injector Box of 12,OMOP5046070,Clinical Drug Box,RxNorm Extension,Drug,0
+36036064,exenatide 2 MG Pen Injector [Bydureon] Box of 12,OMOP5046071,Branded Drug Box,RxNorm Extension,Drug,0
+36036065,exenatide 2 MG Pen Injector [Bydureon] Box of 12 by Axicorp,OMOP5046072,Marketed Product,RxNorm Extension,Drug,0
+36037343,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] by Orifarm Leverkus,OMOP5047339,Marketed Product,RxNorm Extension,Drug,0
+36037344,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] by Haematogmbh,OMOP5047340,Marketed Product,RxNorm Extension,Drug,0
+36052551,0.85 ML exenatide 2.35 MG/ML Injectable Suspension [Bydureon] Box of 4 by Astrazeneca,OMOP4977634,Marketed Product,RxNorm Extension,Drug,0
+36052552,0.85 ML exenatide 2.35 MG/ML Injectable Suspension [Bydureon] Box of 4,OMOP4977635,Quant Branded Box,RxNorm Extension,Drug,0
+36052553,0.85 ML exenatide 2.35 MG/ML Injectable Suspension [Bydureon] by Astrazeneca,OMOP4977636,Marketed Product,RxNorm Extension,Drug,0
+36052554,0.85 ML exenatide 2.35 MG/ML Injectable Suspension [Bydureon],OMOP4977637,Quant Branded Drug,RxNorm Extension,Drug,0
+36052555,0.85 ML exenatide 2.35 MG/ML Injectable Suspension Box of 4,OMOP4977638,Quant Clinical Box,RxNorm Extension,Drug,0
+36052556,0.85 ML exenatide 2.35 MG/ML Injectable Suspension,OMOP4977639,Quant Clinical Drug,RxNorm Extension,Drug,0
+36053779,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by DE,OMOP4978976,Marketed Product,RxNorm Extension,Drug,0
+36053780,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by DE,OMOP4978977,Marketed Product,RxNorm Extension,Drug,0
+36055143,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Mawdsley-Brooks,OMOP4980471,Marketed Product,RxNorm Extension,Drug,0
+36055144,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by DE,OMOP4980472,Marketed Product,RxNorm Extension,Drug,0
+36055145,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by CST,OMOP4980473,Marketed Product,RxNorm Extension,Drug,0
+36055146,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Ethigen,OMOP4980474,Marketed Product,RxNorm Extension,Drug,0
+36055147,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Originalis B.V.,OMOP4980475,Marketed Product,RxNorm Extension,Drug,0
+36055148,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Pharmaram,OMOP4980476,Marketed Product,RxNorm Extension,Drug,0
+36055149,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Mawdsley-Brooks,OMOP4980477,Marketed Product,RxNorm Extension,Drug,0
+36055150,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by DE,OMOP4980478,Marketed Product,RxNorm Extension,Drug,0
+36055151,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by CST,OMOP4980479,Marketed Product,RxNorm Extension,Drug,0
+36055152,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Ethigen,OMOP4980480,Marketed Product,RxNorm Extension,Drug,0
+36055153,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Originalis B.V.,OMOP4980481,Marketed Product,RxNorm Extension,Drug,0
+36055154,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Pharmaram,OMOP4980482,Marketed Product,RxNorm Extension,Drug,0
+36062852,exenatide 2 MG Injectable Suspension [Bydureon] Box of 4 by CST,OMOP4988910,Marketed Product,RxNorm Extension,Drug,0
+36062853,exenatide 2 MG Injectable Suspension [Bydureon] by CST,OMOP4988911,Marketed Product,RxNorm Extension,Drug,0
+36062854,exenatide 2.35 MG/ML Injectable Suspension [Bydureon] Box of 4,OMOP4988912,Branded Drug Box,RxNorm Extension,Drug,0
+36062855,exenatide 2.35 MG/ML Injectable Suspension [Bydureon],OMOP4988913,Branded Drug,RxNorm Extension,Drug,0
+36062856,exenatide 2.35 MG/ML Injectable Suspension Box of 4,OMOP4988914,Clinical Drug Box,RxNorm Extension,Drug,0
+36062857,exenatide 2.35 MG/ML Injectable Suspension,OMOP4988915,Clinical Drug,RxNorm Extension,Drug,0
+36222278,exenatide Injectable Product,1163790,Clinical Dose Group,RxNorm,Drug,0
+36234709,Byetta Injectable Product,1169415,Branded Dose Group,RxNorm,Drug,0
+36238252,Bydureon Injectable Product,1242967,Branded Dose Group,RxNorm,Drug,0
+36257910,exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta],OMOP3108785,Branded Drug,RxNorm Extension,Drug,0
+36260449,exenatide 3.08 MG/ML Injectable Suspension [Bydureon] Box of 4,OMOP3111324,Branded Drug Box,RxNorm Extension,Drug,0
+36260450,exenatide 3.08 MG/ML Injectable Suspension [Bydureon],OMOP3111325,Branded Drug,RxNorm Extension,Drug,0
+36262254,exenatide 3.08 MG/ML Injectable Suspension Box of 4,OMOP3113129,Clinical Drug Box,RxNorm Extension,Drug,0
+36263010,exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta],OMOP3113885,Branded Drug,RxNorm Extension,Drug,0
+36267396,exenatide 0.01 MG/ACTUAT Injectable Solution,OMOP3118271,Clinical Drug,RxNorm Extension,Drug,0
+36269923,exenatide 3.08 MG/ML Injectable Suspension,OMOP3120798,Clinical Drug,RxNorm Extension,Drug,0
+36272453,exenatide 0.005 MG/ACTUAT Injectable Solution,OMOP3123328,Clinical Drug,RxNorm Extension,Drug,0
+36282263,0.65 ML exenatide 3.08 MG/ML Injectable Suspension [Bydureon] Box of 4 by Astrazeneca,OMOP3133138,Marketed Product,RxNorm Extension,Drug,0
+36282265,0.65 ML exenatide 3.08 MG/ML Injectable Suspension [Bydureon],OMOP3133140,Quant Branded Drug,RxNorm Extension,Drug,0
+36282266,0.65 ML exenatide 3.08 MG/ML Injectable Suspension Box of 4,OMOP3133141,Quant Clinical Box,RxNorm Extension,Drug,0
+36282267,0.65 ML exenatide 3.08 MG/ML Injectable Suspension [Bydureon] Box of 4,OMOP3133142,Quant Branded Box,RxNorm Extension,Drug,0
+36282268,0.65 ML exenatide 3.08 MG/ML Injectable Suspension,OMOP3133143,Quant Clinical Drug,RxNorm Extension,Drug,0
+36283820,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta],OMOP3134695,Quant Branded Drug,RxNorm Extension,Drug,0
+36283825,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution,OMOP3134700,Quant Clinical Drug,RxNorm Extension,Drug,0
+36283826,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta],OMOP3134701,Quant Branded Drug,RxNorm Extension,Drug,0
+36283830,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution,OMOP3134705,Quant Clinical Drug,RxNorm Extension,Drug,0
+36283834,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta] by Astrazeneca,OMOP3134709,Marketed Product,RxNorm Extension,Drug,0
+36283850,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta] by Astrazeneca,OMOP3134725,Marketed Product,RxNorm Extension,Drug,0
+36420482,exenatide 2 MG Injectable Solution [Bydureon] Box of 4,OMOP4762766,Branded Drug Box,RxNorm Extension,Drug,0
+36420483,exenatide 2 MG Injectable Solution [Bydureon],OMOP4762767,Branded Drug,RxNorm Extension,Drug,0
+36420484,exenatide Injectable Solution [Bydureon],OMOP4762768,Branded Drug Form,RxNorm Extension,Drug,0
+36508748,exenatide 2 MG Pen Injector [Bydureon] by Eurim-Pharm,OMOP4835184,Marketed Product,RxNorm Extension,Drug,0
+36778933,60 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP4767248,Marketed Product,RxNorm Extension,Drug,0
+36778934,60 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1,OMOP4767249,Quant Branded Box,RxNorm Extension,Drug,0
+36778935,60 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta],OMOP4767250,Quant Branded Drug,RxNorm Extension,Drug,0
+36778936,60 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe Box of 1,OMOP4767251,Quant Clinical Box,RxNorm Extension,Drug,0
+36778937,60 ACTUAT exenatide 0.01 MG/ACTUAT Prefilled Syringe,OMOP4767252,Quant Clinical Drug,RxNorm Extension,Drug,0
+36778938,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP4767253,Marketed Product,RxNorm Extension,Drug,0
+36778939,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta] Box of 1,OMOP4767254,Quant Branded Box,RxNorm Extension,Drug,0
+36778940,60 ACTUAT exenatide 0.01 MG/ACTUAT Injectable Solution Box of 1,OMOP4767255,Quant Clinical Box,RxNorm Extension,Drug,0
+36778941,60 ACTUAT exenatide 0.005 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP4767256,Marketed Product,RxNorm Extension,Drug,0
+36778942,60 ACTUAT exenatide 0.005 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1,OMOP4767257,Quant Branded Box,RxNorm Extension,Drug,0
+36778943,60 ACTUAT exenatide 0.005 MG/ACTUAT Prefilled Syringe [Byetta],OMOP4767258,Quant Branded Drug,RxNorm Extension,Drug,0
+36778944,60 ACTUAT exenatide 0.005 MG/ACTUAT Prefilled Syringe Box of 1,OMOP4767259,Quant Clinical Box,RxNorm Extension,Drug,0
+36778945,60 ACTUAT exenatide 0.005 MG/ACTUAT Prefilled Syringe,OMOP4767260,Quant Clinical Drug,RxNorm Extension,Drug,0
+36778946,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP4767261,Marketed Product,RxNorm Extension,Drug,0
+36778947,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta] Box of 1,OMOP4767262,Quant Branded Box,RxNorm Extension,Drug,0
+36778948,60 ACTUAT exenatide 0.005 MG/ACTUAT Injectable Solution Box of 1,OMOP4767263,Quant Clinical Box,RxNorm Extension,Drug,0
+36785904,exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1,OMOP4774180,Branded Drug Box,RxNorm Extension,Drug,0
+36785905,exenatide 0.01 MG/ACTUAT Prefilled Syringe [Byetta],OMOP4774181,Branded Drug,RxNorm Extension,Drug,0
+36785906,exenatide 0.01 MG/ACTUAT Prefilled Syringe Box of 1,OMOP4774182,Clinical Drug Box,RxNorm Extension,Drug,0
+36785907,exenatide 0.01 MG/ACTUAT Prefilled Syringe,OMOP4774183,Clinical Drug,RxNorm Extension,Drug,0
+36785908,exenatide 0.01 MG/ACTUAT Injectable Solution [Byetta] Box of 1,OMOP4774184,Branded Drug Box,RxNorm Extension,Drug,0
+36785909,exenatide 0.01 MG/ACTUAT Injectable Solution Box of 1,OMOP4774185,Clinical Drug Box,RxNorm Extension,Drug,0
+36785910,exenatide 0.005 MG/ACTUAT Prefilled Syringe [Byetta] Box of 1,OMOP4774186,Branded Drug Box,RxNorm Extension,Drug,0
+36785911,exenatide 0.005 MG/ACTUAT Prefilled Syringe [Byetta],OMOP4774187,Branded Drug,RxNorm Extension,Drug,0
+36785912,exenatide 0.005 MG/ACTUAT Prefilled Syringe Box of 1,OMOP4774188,Clinical Drug Box,RxNorm Extension,Drug,0
+36785913,exenatide 0.005 MG/ACTUAT Prefilled Syringe,OMOP4774189,Clinical Drug,RxNorm Extension,Drug,0
+36785914,exenatide 0.005 MG/ACTUAT Injectable Solution [Byetta] Box of 1,OMOP4774190,Branded Drug Box,RxNorm Extension,Drug,0
+36785915,exenatide 0.005 MG/ACTUAT Injectable Solution Box of 1,OMOP4774191,Clinical Drug Box,RxNorm Extension,Drug,0
+36881835,exenatide Injectable Suspension [Bydureon],OMOP1006985,Branded Drug Form,RxNorm Extension,Drug,0
+36882861,exenatide 2 MG Injectable Suspension Box of 4,OMOP995822,Clinical Drug Box,RxNorm Extension,Drug,0
+36890939,exenatide 2 MG Injectable Suspension [Bydureon] Box of 4,OMOP1007273,Branded Drug Box,RxNorm Extension,Drug,0
+37593853,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] by Emra-Med,OMOP4783283,Marketed Product,RxNorm Extension,Drug,0
+40716968,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Lexon,OMOP4740144,Marketed Product,RxNorm Extension,Drug,0
+40716969,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Astrazeneca,OMOP4740143,Marketed Product,RxNorm Extension,Drug,0
+40716970,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Lexon,OMOP4740142,Marketed Product,RxNorm Extension,Drug,0
+40718251,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Mawdsley-Brooks,OMOP4739422,Marketed Product,RxNorm Extension,Drug,0
+40718252,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Waymade,OMOP4739421,Marketed Product,RxNorm Extension,Drug,0
+40718253,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Astrazeneca,OMOP4739420,Marketed Product,RxNorm Extension,Drug,0
+40718254,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Mawdsley-Brooks,OMOP4739419,Marketed Product,RxNorm Extension,Drug,0
+40718255,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] by Waymade,OMOP4739418,Marketed Product,RxNorm Extension,Drug,0
+40736440,exenatide 2 MG Injectable Suspension [Bydureon] Box of 4 by Lexon,OMOP4720787,Marketed Product,RxNorm Extension,Drug,0
+40736441,exenatide 2 MG Injectable Suspension [Bydureon] by Lexon,OMOP4720786,Marketed Product,RxNorm Extension,Drug,0
+40836355,exenatide 0.00417 MG/ML Injectable Solution Box of 1,OMOP2034317,Clinical Drug Box,RxNorm Extension,Drug,0
+40855096,exenatide 2 MG Injectable Suspension [Bydureon] Box of 12 by Lilly,OMOP2053058,Marketed Product,RxNorm Extension,Drug,0
+40858288,exenatide 0.00417 MG/ML,OMOP2056250,Clinical Drug Comp,RxNorm Extension,Drug,0
+40867428,exenatide 0.25 MG/ML Prefilled Syringe Box of 3,OMOP2065390,Clinical Drug Box,RxNorm Extension,Drug,0
+40877540,exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2075502,Branded Drug Box,RxNorm Extension,Drug,0
+40908545,exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2106507,Branded Drug Box,RxNorm Extension,Drug,0
+40908546,exenatide 2 MG Prefilled Syringe [Bydureon] Box of 12,OMOP2106508,Branded Drug Box,RxNorm Extension,Drug,0
+40957072,exenatide Prefilled Syringe [Bydureon],OMOP2155034,Branded Drug Form,RxNorm Extension,Drug,0
+40960970,exenatide 0.25 MG/ML Injectable Solution Box of 3,OMOP2158932,Clinical Drug Box,RxNorm Extension,Drug,0
+40960971,exenatide 2 MG Injection Box of 12,OMOP2158933,Clinical Drug Box,RxNorm Extension,Drug,0
+40960972,exenatide 2 MG Prefilled Syringe,OMOP2158934,Clinical Drug,RxNorm Extension,Drug,0
+40970836,exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 3,OMOP2168798,Branded Drug Box,RxNorm Extension,Drug,0
+41002204,exenatide 2 MG Injectable Suspension [Bydureon] Box of 12,OMOP2200166,Branded Drug Box,RxNorm Extension,Drug,0
+41011002,exenatide 2 MG Injection [Bydureon] Box of 12 by Lilly,OMOP2208964,Marketed Product,RxNorm Extension,Drug,0
+41023137,exenatide 0.00417 MG/ML Injectable Solution Box of 3,OMOP2221099,Clinical Drug Box,RxNorm Extension,Drug,0
+41033277,exenatide 2 MG Injection [Bydureon] Box of 12,OMOP2231239,Branded Drug Box,RxNorm Extension,Drug,0
+41064441,exenatide 0.00417 MG/ML Injectable Solution [Byetta],OMOP2262403,Branded Drug,RxNorm Extension,Drug,0
+41073389,exenatide 2 MG Injectable Suspension [Bydureon] Box of 12 by Astrazeneca,OMOP2271351,Marketed Product,RxNorm Extension,Drug,0
+41085972,exenatide 0.00417 MG/ML Injectable Solution,OMOP2283934,Clinical Drug,RxNorm Extension,Drug,0
+41085973,exenatide 2 MG Injectable Solution,OMOP2283935,Clinical Drug,RxNorm Extension,Drug,0
+41127242,exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 3,OMOP2325204,Branded Drug Box,RxNorm Extension,Drug,0
+41148673,exenatide 0.25 MG/ML Injectable Solution Box of 1,OMOP2346635,Clinical Drug Box,RxNorm Extension,Drug,0
+41148674,exenatide 2 MG Injectable Solution Box of 12,OMOP2346636,Clinical Drug Box,RxNorm Extension,Drug,0
+41148675,exenatide 2 MG Prefilled Syringe Box of 12,OMOP2346637,Clinical Drug Box,RxNorm Extension,Drug,0
+41189879,exenatide 2 MG Prefilled Syringe [Bydureon] Box of 4,OMOP2387841,Branded Drug Box,RxNorm Extension,Drug,0
+41204165,exenatide 0.00417 MG/ML [Byetta],OMOP2402127,Branded Drug Comp,RxNorm Extension,Drug,0
+41211189,exenatide 2 MG Injectable Solution Box of 4,OMOP2409151,Clinical Drug Box,RxNorm Extension,Drug,0
+41211190,exenatide 2 MG Prefilled Syringe Box of 4,OMOP2409152,Clinical Drug Box,RxNorm Extension,Drug,0
+41242107,exenatide 2 MG Injectable Suspension Box of 12,OMOP2440069,Clinical Drug Box,RxNorm Extension,Drug,0
+41252038,exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3,OMOP2450000,Branded Drug Box,RxNorm Extension,Drug,0
+41252039,exenatide 2 MG Prefilled Syringe [Bydureon],OMOP2450001,Branded Drug,RxNorm Extension,Drug,0
+41260715,exenatide 2 MG Injectable Suspension [Bydureon] Box of 4 by Lilly,OMOP2458677,Marketed Product,RxNorm Extension,Drug,0
+41412023,1.2 ML exenatide 0.00417 MG/ML Injectable Solution,OMOP2609985,Quant Clinical Drug,RxNorm Extension,Drug,0
+41412024,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1,OMOP2609986,Quant Branded Box,RxNorm Extension,Drug,0
+41412037,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Kohlpharma,OMOP2609999,Marketed Product,RxNorm Extension,Drug,0
+41412064,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta],OMOP2610026,Quant Branded Drug,RxNorm Extension,Drug,0
+41412071,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Eurim-Pharm,OMOP2610033,Marketed Product,RxNorm Extension,Drug,0
+41412086,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1 by Kohlpharma,OMOP2610048,Marketed Product,RxNorm Extension,Drug,0
+41412092,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta],OMOP2610054,Quant Branded Drug,RxNorm Extension,Drug,0
+41412164,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Axicorp,OMOP2610126,Marketed Product,RxNorm Extension,Drug,0
+41412170,1.2 ML exenatide 0.25 MG/ML Injectable Solution Box of 1,OMOP2610132,Quant Clinical Box,RxNorm Extension,Drug,0
+41412174,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2610136,Quant Branded Box,RxNorm Extension,Drug,0
+41412183,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Lilly,OMOP2610145,Marketed Product,RxNorm Extension,Drug,0
+41412187,1.2 ML exenatide 0.00417 MG/ML Injectable Solution Box of 1,OMOP2610149,Quant Clinical Box,RxNorm Extension,Drug,0
+41412202,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP2610164,Marketed Product,RxNorm Extension,Drug,0
+41412220,1.2 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1 by Cc,OMOP2610182,Marketed Product,RxNorm Extension,Drug,0
+41412227,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe Box of 1,OMOP2610189,Quant Clinical Box,RxNorm Extension,Drug,0
+41412228,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe,OMOP2610190,Quant Clinical Drug,RxNorm Extension,Drug,0
+41412232,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta],OMOP2610194,Quant Branded Drug,RxNorm Extension,Drug,0
+41412240,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Gerke,OMOP2610202,Marketed Product,RxNorm Extension,Drug,0
+41412241,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Kohlpharma,OMOP2610203,Marketed Product,RxNorm Extension,Drug,0
+41412242,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Axicorp,OMOP2610204,Marketed Product,RxNorm Extension,Drug,0
+41412246,1.2 ML exenatide 0.25 MG/ML Injectable Solution,OMOP2610208,Quant Clinical Drug,RxNorm Extension,Drug,0
+41412266,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Emra-Med,OMOP2610228,Marketed Product,RxNorm Extension,Drug,0
+41412267,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Emra-Med,OMOP2610229,Marketed Product,RxNorm Extension,Drug,0
+41412268,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP2610230,Marketed Product,RxNorm Extension,Drug,0
+41412274,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2610236,Quant Branded Box,RxNorm Extension,Drug,0
+41412284,1.2 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Eurim-Pharm,OMOP2610246,Marketed Product,RxNorm Extension,Drug,0
+41430926,2.4 ML exenatide 0.25 MG/ML Injectable Solution Box of 1,OMOP2628888,Quant Clinical Box,RxNorm Extension,Drug,0
+41430927,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta],OMOP2628889,Quant Branded Drug,RxNorm Extension,Drug,0
+41430932,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 3 by Kohlpharma,OMOP2628894,Marketed Product,RxNorm Extension,Drug,0
+41430940,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Cc,OMOP2628902,Marketed Product,RxNorm Extension,Drug,0
+41430941,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 3 by Astrazeneca,OMOP2628903,Marketed Product,RxNorm Extension,Drug,0
+41430942,2.4 ML exenatide 0.00417 MG/ML Injectable Solution Box of 1,OMOP2628904,Quant Clinical Box,RxNorm Extension,Drug,0
+41430944,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 3,OMOP2628906,Quant Branded Box,RxNorm Extension,Drug,0
+41430947,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1,OMOP2628909,Quant Branded Box,RxNorm Extension,Drug,0
+41430949,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1 by Axicorp,OMOP2628911,Marketed Product,RxNorm Extension,Drug,0
+41430950,2.4 ML exenatide 0.00417 MG/ML Injectable Solution Box of 3,OMOP2628912,Quant Clinical Box,RxNorm Extension,Drug,0
+41430955,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Lilly,OMOP2628917,Marketed Product,RxNorm Extension,Drug,0
+41430956,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Eurim-Pharm,OMOP2628918,Marketed Product,RxNorm Extension,Drug,0
+41430957,2.4 ML exenatide 0.25 MG/ML Injectable Solution,OMOP2628919,Quant Clinical Drug,RxNorm Extension,Drug,0
+41430958,2.4 ML exenatide 0.00417 MG/ML Injectable Solution,OMOP2628920,Quant Clinical Drug,RxNorm Extension,Drug,0
+41430959,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta],OMOP2628921,Quant Branded Drug,RxNorm Extension,Drug,0
+41430960,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3,OMOP2628922,Quant Branded Box,RxNorm Extension,Drug,0
+41430969,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe Box of 3,OMOP2628931,Quant Clinical Box,RxNorm Extension,Drug,0
+41430972,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Kohlpharma,OMOP2628934,Marketed Product,RxNorm Extension,Drug,0
+41430977,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Axicorp,OMOP2628939,Marketed Product,RxNorm Extension,Drug,0
+41430982,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Cc,OMOP2628944,Marketed Product,RxNorm Extension,Drug,0
+41430983,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2628945,Quant Branded Box,RxNorm Extension,Drug,0
+41430986,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 3 by Astrazeneca,OMOP2628948,Marketed Product,RxNorm Extension,Drug,0
+41430987,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Lilly,OMOP2628949,Marketed Product,RxNorm Extension,Drug,0
+41430988,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1 by Kohlpharma,OMOP2628950,Marketed Product,RxNorm Extension,Drug,0
+41430990,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe,OMOP2628952,Quant Clinical Drug,RxNorm Extension,Drug,0
+41430991,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta],OMOP2628953,Quant Branded Drug,RxNorm Extension,Drug,0
+41430994,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 3 by Lilly,OMOP2628956,Marketed Product,RxNorm Extension,Drug,0
+41430995,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Astrazeneca,OMOP2628957,Marketed Product,RxNorm Extension,Drug,0
+41430999,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1 by Eurim-Pharm,OMOP2628961,Marketed Product,RxNorm Extension,Drug,0
+41431000,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 3,OMOP2628962,Quant Branded Box,RxNorm Extension,Drug,0
+41431002,2.4 ML exenatide 0.25 MG/ML Injectable Solution Box of 3,OMOP2628964,Quant Clinical Box,RxNorm Extension,Drug,0
+41431007,2.4 ML exenatide 0.25 MG/ML Injectable Solution [Byetta] Box of 1 by Kohlpharma,OMOP2628969,Marketed Product,RxNorm Extension,Drug,0
+41431008,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 3 by Emra-Med,OMOP2628970,Marketed Product,RxNorm Extension,Drug,0
+41431009,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe Box of 1,OMOP2628971,Quant Clinical Box,RxNorm Extension,Drug,0
+41431010,2.4 ML exenatide 0.00417 MG/ML Injectable Solution [Byetta] Box of 1,OMOP2628972,Quant Branded Box,RxNorm Extension,Drug,0
+42479624,exenatide Prefilled Syringe,OMOP417669,Clinical Drug Form,RxNorm Extension,Drug,0
+42482002,exenatide Prefilled Syringe [Byetta],OMOP417670,Branded Drug Form,RxNorm Extension,Drug,0
+42614439,exenatide Cartridge,OMOP5159513,Clinical Drug Form,RxNorm Extension,Drug,0
+42614440,exenatide Cartridge [Bydureon],OMOP5159514,Branded Drug Form,RxNorm Extension,Drug,0
+42683384,exenatide 2.35 MG/ML Prefilled Syringe [Bydureon] Box of 4,OMOP4912450,Branded Drug Box,RxNorm Extension,Drug,0
+42683385,exenatide 2.35 MG/ML Prefilled Syringe [Bydureon],OMOP4912449,Branded Drug,RxNorm Extension,Drug,0
+42683386,exenatide 2.35 MG/ML Prefilled Syringe Box of 4,OMOP4912448,Clinical Drug Box,RxNorm Extension,Drug,0
+42683387,exenatide 2.35 MG/ML Prefilled Syringe,OMOP4912447,Clinical Drug,RxNorm Extension,Drug,0
+42683874,0.85 ML exenatide 2.35 MG/ML Prefilled Syringe [Bydureon] Box of 4 by Astrazeneca,OMOP4912665,Marketed Product,RxNorm Extension,Drug,0
+42683875,0.85 ML exenatide 2.35 MG/ML Prefilled Syringe [Bydureon] Box of 4,OMOP4912664,Quant Branded Box,RxNorm Extension,Drug,0
+42683876,0.85 ML exenatide 2.35 MG/ML Prefilled Syringe [Bydureon],OMOP4912663,Quant Branded Drug,RxNorm Extension,Drug,0
+42683877,0.85 ML exenatide 2.35 MG/ML Prefilled Syringe Box of 4,OMOP4912662,Quant Clinical Box,RxNorm Extension,Drug,0
+42683878,0.85 ML exenatide 2.35 MG/ML Prefilled Syringe,OMOP4912661,Quant Clinical Drug,RxNorm Extension,Drug,0
+42705839,exenatide 3.08 MG/ML,1242961,Clinical Drug Comp,RxNorm,Drug,0
+42705842,exenatide 3.08 MG/ML [Bydureon],1242965,Branded Drug Comp,RxNorm,Drug,0
+42708078,exenatide 2 MG Injection,1242963,Clinical Drug,RxNorm,Drug,0
+42708079,exenatide 2 MG Injection [Bydureon],1242968,Branded Drug,RxNorm,Drug,0
+42902527,exenatide 0.005 MG/ACTUAT Pen Injector,1359640,Clinical Drug,RxNorm,Drug,0
+42902689,exenatide 0.005 MG/ACTUAT Pen Injector [Byetta],1359802,Branded Drug,RxNorm,Drug,0
+42902866,exenatide 0.01 MG/ACTUAT Pen Injector [Byetta],1359979,Branded Drug,RxNorm,Drug,0
+42903341,exenatide 0.01 MG/ACTUAT Pen Injector,1360454,Clinical Drug,RxNorm,Drug,0
+42921781,2.4 ML exenatide 0.25 MG/ML Pen Injector [Byetta],OMOP4648602,Quant Branded Drug,RxNorm Extension,Drug,0
+42921783,2.4 ML exenatide 0.25 MG/ML Pen Injector,OMOP4648603,Quant Clinical Drug,RxNorm Extension,Drug,0
+42922263,1.2 ML exenatide 0.25 MG/ML Pen Injector [Byetta],OMOP4649077,Quant Branded Drug,RxNorm Extension,Drug,0
+42922264,1.2 ML exenatide 0.25 MG/ML Pen Injector,OMOP4649078,Quant Clinical Drug,RxNorm Extension,Drug,0
+42946808,exenatide 0.25 MG/ML Pen Injector [Byetta],OMOP4673408,Branded Drug,RxNorm Extension,Drug,0
+42946809,exenatide 0.25 MG/ML Pen Injector,OMOP4673409,Clinical Drug,RxNorm Extension,Drug,0
+43030264,exenatide 0.01 MG Injectable Solution,OMOP4845333,Clinical Drug,RxNorm Extension,Drug,0
+43030265,exenatide 0.01 MG Injectable Solution [Byetta],OMOP4845334,Branded Drug,RxNorm Extension,Drug,0
+43030266,exenatide 0.01 MG Injectable Solution [Byetta] by Astrazeneca,OMOP4845335,Marketed Product,RxNorm Extension,Drug,0
+43030267,exenatide 0.01 MG Prefilled Syringe [Byetta] by Astrazeneca,OMOP4845336,Marketed Product,RxNorm Extension,Drug,0
+43030268,exenatide 0.005 MG Injectable Solution,OMOP4845337,Clinical Drug,RxNorm Extension,Drug,0
+43030269,exenatide 0.005 MG Injectable Solution [Byetta],OMOP4845338,Branded Drug,RxNorm Extension,Drug,0
+43030270,exenatide 0.005 MG Injectable Solution [Byetta] by Astrazeneca,OMOP4845339,Marketed Product,RxNorm Extension,Drug,0
+43030271,exenatide 0.005 MG Prefilled Syringe [Byetta] by Astrazeneca,OMOP4845340,Marketed Product,RxNorm Extension,Drug,0
+43140948,exenatide 0.005 MG Prefilled Syringe Box of 1,OMOP502283,Clinical Drug Box,RxNorm Extension,Drug,0
+43140949,exenatide 0.005 MG Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP502286,Marketed Product,RxNorm Extension,Drug,0
+43152028,exenatide 0.01 MG Prefilled Syringe Box of 1,OMOP502273,Clinical Drug Box,RxNorm Extension,Drug,0
+43152029,exenatide 0.01 MG Prefilled Syringe [Byetta] Box of 1,OMOP502275,Branded Drug Box,RxNorm Extension,Drug,0
+43152030,exenatide 0.01 MG Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP502277,Marketed Product,RxNorm Extension,Drug,0
+43163128,exenatide 0.01 MG Prefilled Syringe,OMOP502272,Clinical Drug,RxNorm Extension,Drug,0
+43163129,exenatide 0.005 MG Prefilled Syringe [Byetta],OMOP502284,Branded Drug,RxNorm Extension,Drug,0
+43174144,exenatide 0.01 MG Prefilled Syringe [Byetta],OMOP502274,Branded Drug,RxNorm Extension,Drug,0
+43174145,exenatide 0.005 MG Prefilled Syringe,OMOP502282,Clinical Drug,RxNorm Extension,Drug,0
+43174525,exenatide Injectable Suspension,OMOP440521,Clinical Drug Form,RxNorm Extension,Drug,0
+43195984,exenatide 0.005 MG,OMOP502279,Clinical Drug Comp,RxNorm Extension,Drug,0
+43195985,exenatide 0.005 MG Prefilled Syringe [Byetta] Box of 1,OMOP502285,Branded Drug Box,RxNorm Extension,Drug,0
+43206892,exenatide 0.005 MG [Byetta],OMOP502280,Branded Drug Comp,RxNorm Extension,Drug,0
+43217922,exenatide 0.01 MG,OMOP502270,Clinical Drug Comp,RxNorm Extension,Drug,0
+43217923,exenatide 0.01 MG [Byetta],OMOP502271,Branded Drug Comp,RxNorm Extension,Drug,0
+43269064,exenatide 0.005 MG Injection [Byetta],OMOP554285,Branded Drug,RxNorm Extension,Drug,0
+43274600,exenatide 0.005 MG Injection,OMOP554284,Clinical Drug,RxNorm Extension,Drug,0
+43274601,exenatide 0.01 MG Injection,OMOP554286,Clinical Drug,RxNorm Extension,Drug,0
+43285377,exenatide 0.01 MG Injection [Byetta],OMOP554287,Branded Drug,RxNorm Extension,Drug,0
+43296150,exenatide Injection [Byetta],OMOP554283,Branded Drug Form,RxNorm Extension,Drug,0
+44032735,exenatide 2 MG Injectable Suspension,OMOP1027366,Clinical Drug,RxNorm Extension,Drug,0
+44057212,exenatide Injectable Solution [Byetta],OMOP1051843,Branded Drug Form,RxNorm Extension,Drug,0
+44058730,exenatide 0.25 MG/ML Injectable Solution,OMOP1053361,Clinical Drug,RxNorm Extension,Drug,0
+44081621,exenatide Injectable Solution,OMOP1076252,Clinical Drug Form,RxNorm Extension,Drug,0
+44086432,exenatide 2 MG Injectable Suspension [Bydureon],OMOP1081063,Branded Drug,RxNorm Extension,Drug,0
+44115142,exenatide 2 MG Injectable Suspension [Bydureon] by Astrazeneca,OMOP1109773,Marketed Product,RxNorm Extension,Drug,0
+44115143,exenatide 0.25 MG/ML Injectable Solution [Byetta] by Astrazeneca,OMOP1109774,Marketed Product,RxNorm Extension,Drug,0
+44125349,exenatide 0.25 MG/ML Injectable Solution [Byetta],OMOP1119980,Branded Drug,RxNorm Extension,Drug,0
+44160058,exenatide 2 MG Injection [Bydureon] Box of 12 by Astrazeneca,OMOP3036781,Marketed Product,RxNorm Extension,Drug,0
+44163833,exenatide 2 MG Injection [Bydureon] Box of 4 by Lilly,OMOP3040556,Marketed Product,RxNorm Extension,Drug,0
+44197346,1.2 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Lilly,OMOP3074069,Marketed Product,RxNorm Extension,Drug,0
+44198914,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Astrazeneca,OMOP3075637,Marketed Product,RxNorm Extension,Drug,0
+44198918,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 3 by Lilly,OMOP3075641,Marketed Product,RxNorm Extension,Drug,0
+44198919,2.4 ML exenatide 0.25 MG/ML Prefilled Syringe [Byetta] Box of 1 by Cc,OMOP3075642,Marketed Product,RxNorm Extension,Drug,0
+45774531,0.65 ML exenatide 3.08 MG/ML Pen Injector,1544916,Quant Clinical Drug,RxNorm,Drug,0
+45774533,0.65 ML exenatide 3.08 MG/ML Pen Injector [Bydureon],1544918,Quant Branded Drug,RxNorm,Drug,0
+45774534,exenatide 3.08 MG/ML Pen Injector,1544919,Clinical Drug,RxNorm,Drug,0
+45774535,exenatide 3.08 MG/ML Pen Injector [Bydureon],1544920,Branded Drug,RxNorm,Drug,0
+46234116,exenatide 2 MG,1653610,Clinical Drug Comp,RxNorm,Drug,0
+46234117,exenatide Injection,1653611,Clinical Drug Form,RxNorm,Drug,0
+46234118,exenatide 2 MG [Bydureon],1653613,Branded Drug Comp,RxNorm,Drug,0
+46234119,exenatide Injection [Bydureon],1653614,Branded Drug Form,RxNorm,Drug,0
+46234120,exenatide Pen Injector,1653616,Clinical Drug Form,RxNorm,Drug,0
+46234121,exenatide Pen Injector [Bydureon],1653619,Branded Drug Form,RxNorm,Drug,0
+46234122,exenatide Pen Injector [Byetta],1653625,Branded Drug Form,RxNorm,Drug,0

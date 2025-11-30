@@ -1,0 +1,97 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,VOCABULARY_ID,DOMAIN_ID,is_original_ingredient
+21027240,albiglutide 30 MG,OMOP274086,Clinical Drug Comp,RxNorm Extension,Drug,0
+21027241,albiglutide 50 MG Injection [Eperzan],OMOP274099,Branded Drug,RxNorm Extension,Drug,0
+21037025,albiglutide Injection [Eperzan],OMOP274085,Branded Drug Form,RxNorm Extension,Drug,0
+21066500,albiglutide 30 MG Injection,OMOP274088,Clinical Drug,RxNorm Extension,Drug,0
+21066501,albiglutide 50 MG [Eperzan],OMOP274096,Branded Drug Comp,RxNorm Extension,Drug,0
+21086140,albiglutide 50 MG Injection [Eperzan] Box of 4,OMOP274101,Branded Drug Box,RxNorm Extension,Drug,0
+21095937,albiglutide 50 MG,OMOP274095,Clinical Drug Comp,RxNorm Extension,Drug,0
+21115586,albiglutide 30 MG Injection [Eperzan] by Glaxosmithkline,OMOP274091,Marketed Product,RxNorm Extension,Drug,0
+21115587,albiglutide 50 MG Injection,OMOP274097,Clinical Drug,RxNorm Extension,Drug,0
+21125207,albiglutide 30 MG Injection [Eperzan] Box of 4 by Glaxosmithkline,OMOP274094,Marketed Product,RxNorm Extension,Drug,0
+21125208,albiglutide 50 MG Injection [Eperzan] by Glaxosmithkline,OMOP274100,Marketed Product,RxNorm Extension,Drug,0
+21135110,albiglutide 30 MG [Eperzan],OMOP274087,Branded Drug Comp,RxNorm Extension,Drug,0
+21145008,albiglutide 30 MG Injection Box of 4,OMOP274089,Clinical Drug Box,RxNorm Extension,Drug,0
+21154942,albiglutide 50 MG Injection [Eperzan] Box of 4 by Glaxosmithkline,OMOP274102,Marketed Product,RxNorm Extension,Drug,0
+21164776,albiglutide 30 MG Injection [Eperzan],OMOP274090,Branded Drug,RxNorm Extension,Drug,0
+21174504,albiglutide 30 MG Injection [Eperzan] Box of 4,OMOP274092,Branded Drug Box,RxNorm Extension,Drug,0
+21174505,albiglutide 50 MG Injection Box of 4,OMOP274098,Clinical Drug Box,RxNorm Extension,Drug,0
+35742089,albiglutide 50 MG Prefilled Syringe [Eperzan] by Glaxosmithkline,OMOP2743550,Marketed Product,RxNorm Extension,Drug,0
+35763336,albiglutide 30 MG Prefilled Syringe [Eperzan] Box of 4 by Glaxosmithkline,OMOP2764797,Marketed Product,RxNorm Extension,Drug,0
+35763337,albiglutide 30 MG Prefilled Syringe [Eperzan] by Glaxosmithkline,OMOP2764798,Marketed Product,RxNorm Extension,Drug,0
+35771788,albiglutide 50 MG Prefilled Syringe [Eperzan] Box of 4 by Glaxosmithkline,OMOP2773249,Marketed Product,RxNorm Extension,Drug,0
+36246905,albiglutide Injectable Product,1534798,Clinical Dose Group,RxNorm,Drug,0
+36246906,Tanzeum Injectable Product,1534804,Branded Dose Group,RxNorm,Drug,0
+36257019,albiglutide 60 MG/ML Pen Injector Box of 4,OMOP3107894,Clinical Drug Box,RxNorm Extension,Drug,0
+36257331,albiglutide 60 MG/ML Pen Injector [Eperzan] Box of 4,OMOP3108206,Branded Drug Box,RxNorm Extension,Drug,0
+36257332,albiglutide 60 MG/ML Pen Injector [Eperzan],OMOP3108207,Branded Drug,RxNorm Extension,Drug,0
+36261529,albiglutide 100 MG/ML [Eperzan],OMOP3112404,Branded Drug Comp,RxNorm Extension,Drug,0
+36264995,albiglutide 100 MG/ML Pen Injector [Eperzan],OMOP3115870,Branded Drug,RxNorm Extension,Drug,0
+36266953,albiglutide Pen Injector [Eperzan],OMOP3117828,Branded Drug Form,RxNorm Extension,Drug,0
+36270071,albiglutide 100 MG/ML Pen Injector [Eperzan] Box of 4,OMOP3120946,Branded Drug Box,RxNorm Extension,Drug,0
+36271737,albiglutide 60 MG/ML [Eperzan],OMOP3122612,Branded Drug Comp,RxNorm Extension,Drug,0
+36274845,albiglutide 100 MG/ML Pen Injector Box of 4,OMOP3125720,Clinical Drug Box,RxNorm Extension,Drug,0
+36281012,0.5 ML albiglutide 60 MG/ML Pen Injector [Eperzan],OMOP3131887,Quant Branded Drug,RxNorm Extension,Drug,0
+36281031,0.5 ML albiglutide 60 MG/ML Pen Injector [Eperzan] Box of 4 by GSK,OMOP3131906,Marketed Product,RxNorm Extension,Drug,0
+36281093,0.5 ML albiglutide 100 MG/ML Pen Injector Box of 4,OMOP3131968,Quant Clinical Box,RxNorm Extension,Drug,0
+36281121,0.5 ML albiglutide 60 MG/ML Pen Injector Box of 4,OMOP3131996,Quant Clinical Box,RxNorm Extension,Drug,0
+36281127,0.5 ML albiglutide 100 MG/ML Pen Injector [Eperzan] Box of 4,OMOP3132002,Quant Branded Box,RxNorm Extension,Drug,0
+36281155,0.5 ML albiglutide 100 MG/ML Pen Injector [Eperzan],OMOP3132030,Quant Branded Drug,RxNorm Extension,Drug,0
+36281213,0.5 ML albiglutide 60 MG/ML Pen Injector [Eperzan] Box of 4,OMOP3132088,Quant Branded Box,RxNorm Extension,Drug,0
+36281221,0.5 ML albiglutide 100 MG/ML Pen Injector [Eperzan] Box of 4 by GSK,OMOP3132096,Marketed Product,RxNorm Extension,Drug,0
+36403507,albiglutide 50 MG Injectable Solution,OMOP3095549,Clinical Drug,RxNorm Extension,Drug,0
+36403508,albiglutide 30 MG Injectable Solution Box of 4,OMOP3095550,Clinical Drug Box,RxNorm Extension,Drug,0
+36403509,albiglutide 30 MG Injectable Solution,OMOP3095551,Clinical Drug,RxNorm Extension,Drug,0
+36403680,albiglutide 50 MG Injectable Solution [Eperzan] Box of 4,OMOP3095722,Branded Drug Box,RxNorm Extension,Drug,0
+36403869,albiglutide 30 MG Injectable Solution [Eperzan] Box of 4 by Glaxosmithkline,OMOP3095911,Marketed Product,RxNorm Extension,Drug,0
+36406172,albiglutide 50 MG Injectable Solution [Eperzan] Box of 4 by Glaxosmithkline,OMOP3098214,Marketed Product,RxNorm Extension,Drug,0
+36406786,albiglutide 30 MG Injectable Solution [Eperzan],OMOP3098828,Branded Drug,RxNorm Extension,Drug,0
+36406992,albiglutide 50 MG Injectable Solution [Eperzan] by Glaxosmithkline,OMOP3099034,Marketed Product,RxNorm Extension,Drug,0
+36407569,albiglutide 50 MG Injectable Solution [Eperzan],OMOP3099611,Branded Drug,RxNorm Extension,Drug,0
+36408866,albiglutide 50 MG Injectable Solution Box of 4,OMOP3100908,Clinical Drug Box,RxNorm Extension,Drug,0
+36409059,albiglutide 30 MG Injectable Solution [Eperzan] Box of 4,OMOP3101101,Branded Drug Box,RxNorm Extension,Drug,0
+36409254,albiglutide 30 MG Injectable Solution [Eperzan] by Glaxosmithkline,OMOP3101296,Marketed Product,RxNorm Extension,Drug,0
+36409559,albiglutide Injectable Solution,OMOP3101601,Clinical Drug Form,RxNorm Extension,Drug,0
+36409596,albiglutide Injectable Solution [Eperzan],OMOP3101638,Branded Drug Form,RxNorm Extension,Drug,0
+40822505,albiglutide 50 MG Prefilled Syringe [Eperzan] Box of 12,OMOP2020467,Branded Drug Box,RxNorm Extension,Drug,0
+40833483,albiglutide Prefilled Syringe [Eperzan],OMOP2031445,Branded Drug Form,RxNorm Extension,Drug,0
+40838577,albiglutide 30 MG Prefilled Syringe Box of 4,OMOP2036539,Clinical Drug Box,RxNorm Extension,Drug,0
+40912908,albiglutide 30 MG Prefilled Syringe [Eperzan] Box of 12,OMOP2110870,Branded Drug Box,RxNorm Extension,Drug,0
+40931835,albiglutide 50 MG Prefilled Syringe Box of 4,OMOP2129797,Clinical Drug Box,RxNorm Extension,Drug,0
+40955718,albiglutide Prefilled Syringe,OMOP2153680,Clinical Drug Form,RxNorm Extension,Drug,0
+40963103,albiglutide 50 MG Prefilled Syringe Box of 12,OMOP2161065,Clinical Drug Box,RxNorm Extension,Drug,0
+41037571,albiglutide 50 MG Prefilled Syringe [Eperzan] Box of 4,OMOP2235533,Branded Drug Box,RxNorm Extension,Drug,0
+41088131,albiglutide 50 MG Prefilled Syringe,OMOP2286093,Clinical Drug,RxNorm Extension,Drug,0
+41088132,albiglutide 30 MG Injection Box of 12,OMOP2286094,Clinical Drug Box,RxNorm Extension,Drug,0
+41100287,albiglutide 50 MG Prefilled Syringe [Eperzan],OMOP2298249,Branded Drug,RxNorm Extension,Drug,0
+41100288,albiglutide 30 MG Prefilled Syringe [Eperzan] Box of 4,OMOP2298250,Branded Drug Box,RxNorm Extension,Drug,0
+41119365,albiglutide 50 MG Injection Box of 12,OMOP2317327,Clinical Drug Box,RxNorm Extension,Drug,0
+41162947,albiglutide 30 MG Prefilled Syringe [Eperzan],OMOP2360909,Branded Drug,RxNorm Extension,Drug,0
+41181970,albiglutide 30 MG Prefilled Syringe,OMOP2379932,Clinical Drug,RxNorm Extension,Drug,0
+41256231,albiglutide 50 MG Injection [Eperzan] Box of 12,OMOP2454193,Branded Drug Box,RxNorm Extension,Drug,0
+41275239,albiglutide 30 MG Prefilled Syringe Box of 12,OMOP2473201,Clinical Drug Box,RxNorm Extension,Drug,0
+41318632,albiglutide 30 MG Injection [Eperzan] Box of 12,OMOP2516594,Branded Drug Box,RxNorm Extension,Drug,0
+42481389,albiglutide Injection,OMOP418957,Clinical Drug Form,RxNorm Extension,Drug,0
+42935364,albiglutide 40.3 MG Injection [Eperzan],OMOP4662075,Branded Drug,RxNorm Extension,Drug,0
+42935365,albiglutide 40.3 MG Injection,OMOP4662076,Clinical Drug,RxNorm Extension,Drug,0
+42935366,albiglutide 40.3 MG [Eperzan],OMOP4662077,Branded Drug Comp,RxNorm Extension,Drug,0
+42935367,albiglutide 40.3 MG,OMOP4662078,Clinical Drug Comp,RxNorm Extension,Drug,0
+42935368,albiglutide 67 MG Injection [Eperzan],OMOP4662079,Branded Drug,RxNorm Extension,Drug,0
+42935369,albiglutide 67 MG Injection,OMOP4662080,Clinical Drug,RxNorm Extension,Drug,0
+42935370,albiglutide 67 MG [Eperzan],OMOP4662081,Branded Drug Comp,RxNorm Extension,Drug,0
+42935371,albiglutide 67 MG,OMOP4662082,Clinical Drug Comp,RxNorm Extension,Drug,0
+44816083,albiglutide 60 MG/ML,1534797,Clinical Drug Comp,RxNorm,Drug,0
+44816086,albiglutide 60 MG/ML [Tanzeum],1534802,Branded Drug Comp,RxNorm,Drug,0
+44816093,albiglutide 100 MG/ML,1534819,Clinical Drug Comp,RxNorm,Drug,0
+44816094,albiglutide 100 MG/ML [Tanzeum],1534821,Branded Drug Comp,RxNorm,Drug,0
+44816273,0.5 ML albiglutide 60 MG/ML Pen Injector,1534800,Quant Clinical Drug,RxNorm,Drug,0
+44816274,0.5 ML albiglutide 60 MG/ML Pen Injector [Tanzeum],1534805,Quant Branded Drug,RxNorm,Drug,0
+44816275,albiglutide 60 MG/ML Pen Injector,1534806,Clinical Drug,RxNorm,Drug,0
+44816276,albiglutide 60 MG/ML Pen Injector [Tanzeum],1534807,Branded Drug,RxNorm,Drug,0
+44816282,0.5 ML albiglutide 100 MG/ML Pen Injector,1534820,Quant Clinical Drug,RxNorm,Drug,0
+44816283,0.5 ML albiglutide 100 MG/ML Pen Injector [Tanzeum],1534822,Quant Branded Drug,RxNorm,Drug,0
+44816284,albiglutide 100 MG/ML Pen Injector,1534823,Clinical Drug,RxNorm,Drug,0
+44816285,albiglutide 100 MG/ML Pen Injector [Tanzeum],1534824,Branded Drug,RxNorm,Drug,0
+44816332,albiglutide,1534763,Ingredient,RxNorm,Drug,1
+46275422,albiglutide Pen Injector,1659115,Clinical Drug Form,RxNorm,Drug,0
+46275423,albiglutide Pen Injector [Tanzeum],1659117,Branded Drug Form,RxNorm,Drug,0
