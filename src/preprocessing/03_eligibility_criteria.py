@@ -10,7 +10,6 @@ Configurable criteria:
 - Minimum follow-up time
 - Other study-specific criteria
 
-Author: Yao An Lee
 """
 
 import os
